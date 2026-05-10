@@ -2,80 +2,11 @@ Repository for digitalization lectures (Python + Machine Learning) at University
 
 Link of this repository: https://github.com/rqawork/teach
 
+# Courses
 
----
+- [Grundlagen der Programmierung in Python](grundlagen_der_programmierung_in_python/README.md)
 
-# Grundlagen der Programmierung in Python
+- [Machine Learning for Beginners](machine_learning_for_beginners/README.md)
 
-### General Information
-- [General Infos](grundlagen_der_programmierung_in_python/general_infos/)
+- [Python and Data Tools for Nonprogrammers](python_and_data_tools_for_nonprogrammers/README.md)
 
-### Course Material
-- [Exercises](grundlagen_der_programmierung_in_python/course_material/exercises/)
-- [Lecture PDFs](grundlagen_der_programmierung_in_python/course_material/lectures_pdf/)
-- [Online Videos](grundlagen_der_programmierung_in_python/course_material/online_videos/)
-- [Solutions](grundlagen_der_programmierung_in_python/course_material/solutions/)
-
----
-
-# Machine Learning for Beginners
-
-### General Information
-- [General Infos](machine_learning_for_beginners/general_infos/)
-
-### Lecture PDFs
-- [Lecture 1](machine_learning_for_beginners/course_material/lectures_pdf/lecture1.pdf)
-- [Lecture 2](machine_learning_for_beginners/course_material/lectures_pdf/lecture2.pdf)
-- [Lecture 3](machine_learning_for_beginners/course_material/lectures_pdf/lecture3.pdf)
-- [Lecture 4](machine_learning_for_beginners/course_material/lectures_pdf/lecture4.pdf)
-- [Lecture 5](machine_learning_for_beginners/course_material/lectures_pdf/lecture5.pdf)
-- [Lecture 6](machine_learning_for_beginners/course_material/lectures_pdf/lecture6.pdf)
-- [Lecture 8](machine_learning_for_beginners/course_material/lectures_pdf/lecture8.pdf)
-- [Lecture 9](machine_learning_for_beginners/course_material/lectures_pdf/lecture9.pdf)
-- [Lecture 10](machine_learning_for_beginners/course_material/lectures_pdf/lecture10.pdf)
-
-### Exercises
-- [Exercise Files 1](machine_learning_for_beginners/course_material/exercises/files1.zip)
-- [Exercise Files 2](machine_learning_for_beginners/course_material/exercises/files2.zip)
-- [Exercise Files 3](machine_learning_for_beginners/course_material/exercises/files3.zip)
-- [Exercise Files 4](machine_learning_for_beginners/course_material/exercises/files4.zip)
-- [Exercise Files 5](machine_learning_for_beginners/course_material/exercises/files5.zip)
-- [Exercise Files 6](machine_learning_for_beginners/course_material/exercises/files6.zip)
-- [Exercise Files 7 - Extra Exercises](machine_learning_for_beginners/course_material/exercises/files7_extra_exercises.zip)
-- [Exercise Files 8](machine_learning_for_beginners/course_material/exercises/files8.zip)
-- [Exercise Files 9](machine_learning_for_beginners/course_material/exercises/files9.zip)
-- [Exercise Files 10](machine_learning_for_beginners/course_material/exercises/files10.zip)
-
-### Solutions
-- [Solution 1](machine_learning_for_beginners/course_material/solutions/exercise1_solution.zip)
-- [Solution 2](machine_learning_for_beginners/course_material/solutions/exercise2_solution.zip)
-- [Solution 3](machine_learning_for_beginners/course_material/solutions/exercise3_solution.zip)
-- [Solution 4](machine_learning_for_beginners/course_material/solutions/exercise4_solution.zip)
-- [Solution 5](machine_learning_for_beginners/course_material/solutions/exercise5_solution.zip)
-- [Solution 6](machine_learning_for_beginners/course_material/solutions/exercise6_solution.zip)
-- [Solution 7 - Extra Exercises](machine_learning_for_beginners/course_material/solutions/files7_extra_exercises_solution.zip)
-- [Solution 8](machine_learning_for_beginners/course_material/solutions/exercise8_solution.zip)
-- [Solution 9](machine_learning_for_beginners/course_material/solutions/files9_solution.zip)
-- [Solution 10](machine_learning_for_beginners/course_material/solutions/exercise10_solution.zip)
-
-### Online Videos
-- [Video Links](machine_learning_for_beginners/course_material/online_videos/Video_Links.md)
-
----
-
-# Python and Data Tools for Non-programmers
-
-### General Information
-- [General Infos](python_and_data_tools_for_nonprogrammers/general_infos/)
-
-### Course Material
-- [Exercises](python_and_data_tools_for_nonprogrammers/course_material/exercises/)
-- [Lecture PDFs](python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/)
-- [Online Videos](python_and_data_tools_for_nonprogrammers/course_material/online_videos/)
-- [Solutions](python_and_data_tools_for_nonprogrammers/course_material/solutions/)
-
----
-
-# Repository
-
-This repository is hosted on GitHub and can also be accessed through GitHub Pages.
