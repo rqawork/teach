@@ -1,4 +1,3 @@
-# teach
 Repository for digitalization lectures (Python + Machine Learning) at University of Bayreuth, Germany. The lectures and material are delivered/provided by Dr. Rodrigo Albuquerque.
 
 Link of this repository: https://github.com/rqawork/teach
@@ -6,9 +5,7 @@ Link of this repository: https://github.com/rqawork/teach
 
 ---
 
-# Courses
-
-## Grundlagen der Programmierung in Python
+# Grundlagen der Programmierung in Python
 
 ### General Information
 - [General Infos](grundlagen_der_programmierung_in_python/general_infos/)
@@ -21,7 +18,7 @@ Link of this repository: https://github.com/rqawork/teach
 
 ---
 
-## Machine Learning for Beginners
+# Machine Learning for Beginners
 
 ### General Information
 - [General Infos](machine_learning_for_beginners/general_infos/)
@@ -66,7 +63,7 @@ Link of this repository: https://github.com/rqawork/teach
 
 ---
 
-## Python and Data Tools for Nonprogrammers
+# Python and Data Tools for Non-programmers
 
 ### General Information
 - [General Infos](python_and_data_tools_for_nonprogrammers/general_infos/)
