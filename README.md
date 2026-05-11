@@ -8,5 +8,5 @@ Link of this repository: https://github.com/rqawork/teach
 
 - [Machine Learning for Beginners](machine_learning_for_beginners/README.md)
 
-- [Python and Data Tools for Nonprogrammers](python_and_data_tools_for_nonprogrammers/README.md)
+- [Python and Data Tools for Non-programmers](python_and_data_tools_for_nonprogrammers/README.md)
 
