@@ -1,3 +1,5 @@
 # General Information
 
-- [Link to Zoom Meeting](https://uni-bayreuth.zoom-x.de/j/65457695752?pwd=CfkeATNKJg0b2sEL1bKXtcBww3CR7j.1)
+- [Schedule of Lectures](schedule_lectures/README.md)
+- [Weekly Zoom Meetings](zoom_meetings/README.md)
+- [Final ML Exam](ml_exam/README.md)
