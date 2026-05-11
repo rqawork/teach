@@ -1,6 +1,6 @@
 # Weekly Zoom Meetings
 
-You can join weekly online meetings (via Zoom) to discuss ML topics of your interest. If nobody appears in the first 10 minutes, the meeting will be terminated. Note: No need to install Zoom, just click on "Join from browser" after clicking on the link below.
+You can join our weekly online meetings (via Zoom) to discuss ML topics of your interest. If nobody appears in the first 10 minutes, the meeting will be terminated. Note: No need to install Zoom, just click on CANCEL and then "Join from browser" after clicking on the link below.
 
 - [Click to Join](https://uni-bayreuth.zoom-x.de/j/65457695752?pwd=CfkeATNKJg0b2sEL1bKXtcBww3CR7j.1)
 - Dates: Every Monday until 13 July 2026.
