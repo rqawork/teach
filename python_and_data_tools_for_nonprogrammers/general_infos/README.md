@@ -1,5 +1,5 @@
 # General Information
-### Course: Machine Learning for Beginners
+### Course: Python and Data Tools for Non-Programmers
 
 ### [Schedule of Lectures](schedule_lectures/README.md)
 
