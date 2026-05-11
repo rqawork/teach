@@ -1,9 +1,8 @@
 # General Information
+### Course: Machine Learning for Beginners
 
-#### Machine Learning for Beginners
+### [Schedule of Lectures](schedule_lectures/README.md)
 
-## [Schedule of Lectures](schedule_lectures/README.md)
+### [Final Python Exam](python_exam/README.md)
 
-## [Final Python Exam](python_exam/README.md)
-
-## Tutor Information: Aadim (E-Mail: Aadim.Nyaichyai@uni-bayreuth.de)
+### Tutor Information: Aadim (E-Mail: Aadim.Nyaichyai@uni-bayreuth.de)
