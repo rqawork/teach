@@ -4,8 +4,8 @@ Link of this repository: https://github.com/rqawork/teach
 
 ---
 
-# Machine Learning for Beginners
+# Python and Data Tools for Non-Programmers
 
-- [General Information](general_infos/README.md)
+## - [General Information](general_infos/README.md)
 
-- [Course Material](course_material/README.md)
+## - [Course Material](course_material/README.md)
