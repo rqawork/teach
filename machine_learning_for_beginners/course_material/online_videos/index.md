@@ -1,4 +1,7 @@
-# Online Videos
+---
+
+# Machine Learning for Beginners
+## Online Videos
 
 - [Lecture 1: Introduction](https://mms.uni-bayreuth.de/Panopto/Pages/Viewer.aspx?id=d4c3a253-d23e-4449-bfab-b2c100edf448)
 

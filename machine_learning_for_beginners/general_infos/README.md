@@ -1,9 +1,10 @@
-# General Information
+---
 
-#### Machine Learning for Beginners
+# Machine Learning for Beginners
+## General Information
 
-## [Schedule of Lectures](schedule_lectures/README.md)
+## - [Schedule of Lectures](schedule_lectures/README.md)
 
-## [Weekly Zoom Meetings](zoom_meetings/README.md)
+## - [Weekly Zoom Meetings](zoom_meetings/README.md)
 
-## [Final ML Exam](ml_exam/README.md)
+## - [Final ML Exam](ml_exam/README.md)

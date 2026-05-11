@@ -1,8 +1,10 @@
-# General Information
-### Course: Python and Data Tools for Non-Programmers
+---
 
-### [Schedule of Lectures](schedule_lectures/README.md)
+# Python and Data Tools for Non-Programmers
+## General Information
 
-### [Final Python Exam](python_exam/README.md)
+## - [Schedule of Lectures](schedule_lectures/README.md)
 
-### Tutor Information: Aadim (E-Mail: Aadim.Nyaichyai@uni-bayreuth.de)
+## - [Final Python Exam](python_exam/README.md)
+
+## - Tutor Information: Aadim (E-Mail: Aadim.Nyaichyai@uni-bayreuth.de)

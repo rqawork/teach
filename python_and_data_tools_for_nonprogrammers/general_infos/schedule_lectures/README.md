@@ -1,5 +1,7 @@
-# Schedule of Lectures
-### Course: Python and Data Tools for Non-Programmers
+---
+
+# Course: Python and Data Tools for Non-Programmers
+## Schedule of Lectures
 
 Lectures will take place on:
 

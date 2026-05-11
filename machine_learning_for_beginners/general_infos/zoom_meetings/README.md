@@ -1,4 +1,7 @@
-# Weekly Zoom Meetings
+---
+
+# Machine Learning for Beginners
+## Weekly Zoom Meetings
 
 You can join our weekly online meetings (via Zoom) to discuss ML topics of your interest. If nobody appears in the first 10 minutes, the meeting will be terminated. Note: No need to install Zoom, just click on CANCEL and then "Join from browser" after clicking on the link below.
 
