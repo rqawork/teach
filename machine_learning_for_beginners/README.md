@@ -45,5 +45,5 @@ Link of this repository: https://github.com/rqawork/teach
 - [Solution 10](/teach/machine_learning_for_beginners/course_material/solutions/exercise10_solution.zip)
 
 ### Online Videos
-- [Video Links](/teach/machine_learning_for_beginners/course_material/online_videos/Video_Links.md)
+- [Online Videos](/teach/machine_learning_for_beginners/course_material/online_videos/)
 
