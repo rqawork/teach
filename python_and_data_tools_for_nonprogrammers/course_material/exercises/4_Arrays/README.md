@@ -1,5 +1,4 @@
 ---
-<sub>[← Previous page](../README.md)</sub>
 
 # Python and Data Tools for Non-Programmers
 ## Course Material
@@ -7,6 +6,7 @@
 #### Arrays
 
 - [Artificial Inteligence](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/4_Arrays/arrays_Artificial_Intelligence.zip)
+
 - [Biochemistry](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/4_Arrays/arrays_Biochemistry.zip)
 
 - [Biofabrication](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/4_Arrays/arrays_Biofabrication.zip)
