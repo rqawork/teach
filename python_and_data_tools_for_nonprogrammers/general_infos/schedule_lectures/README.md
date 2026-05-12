@@ -5,13 +5,11 @@
 
 Lectures will take place on:
 
-- Thursdays at 16:00-17:30 (Room Blabla)
-- Fridays at 12:15-13:45 (Room blabla)
+- Thursdays at 16:00-17:30 (Room S131, Building NWIII)
+- Fridays at 12:15-13:45 (Room S102, Building FAN B)
 
 16.04.2026 (Thu) - Introduction + Strings/Lists
-
 17.04.2026 (Fri) - Strings/Lists (+ extra exercises)
-
 23.04.2026 (Thu) - Tuples/Sets/Dictionaries
 
 24.04.2026 (Fri) - Tuples/Sets/Dictionaries (+ extra exercises)
