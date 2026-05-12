@@ -5,8 +5,8 @@
 ## Course Material
 
 ### Lecture PDFs
-- [Lecture ChatGPT](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/Lecture_ChatGPT.pdf)
 - [All Lectures](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/Lectures_Python_Albuquerque_May2026.pdf)
+- [Lecture ChatGPT](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/Lecture_ChatGPT.pdf)
 
 ### Exercises
 Some zip files might contain extra txt and png files inside. Unpack the zip file for the chosen topic in your PC, then run the jupyter notebook (.ipynb) file from there.
