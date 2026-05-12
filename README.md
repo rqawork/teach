@@ -4,9 +4,10 @@ Link of this repository: https://github.com/rqawork/teach
 
 # Courses
 
-## - [Grundlagen der Programmierung in Python](grundlagen_der_programmierung_in_python/README.md)
 
 ## - [Machine Learning for Beginners](machine_learning_for_beginners/README.md)
 
-## - [Python and Data Tools for Non-programmers](python_and_data_tools_for_nonprogrammers/README.md)
+## - [Python and Data Tools for Non-Programmers](python_and_data_tools_for_nonprogrammers/README.md)
+
+## - [Grundlagen der Programmierung (in Python)](grundlagen_der_programmierung_in_python/README.md)
 
