@@ -1,5 +1,5 @@
 ---
-<sub>[← Previous page](../)</sub>
+<sub>[← Previous page](../README.md)</sub>
 
 # Machine Learning for Beginners
 ## Course Material
