@@ -9,7 +9,7 @@
 - [All Lectures](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/Lectures_Python_Albuquerque_May2026.pdf)
 
 ### Exercises
-- [Multi-topics exercises](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/exercises/README.md)
+- [Multi-topic exercises](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/README.md)
 
 ### Solutions
 - [Solution 1](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_exercise1_strings_lists.zip)
