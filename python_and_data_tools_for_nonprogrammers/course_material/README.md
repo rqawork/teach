@@ -5,17 +5,7 @@
 
 ### Lecture PDFs
 - [Lecture ChatGPT](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/Lecture_ChatGPT.pdf)
-
-<!--
-- [Lecture 2](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/lecture2.pdf)
-- [Lecture 3](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/lecture3.pdf)
-- [Lecture 4](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/lecture4.pdf)
-- [Lecture 5](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/lecture5.pdf)
-- [Lecture 6](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/lecture6.pdf)
-- [Lecture 8](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/lecture8.pdf)
-- [Lecture 9](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/lecture9.pdf)
-- [Lecture 10](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/lecture10.pdf)
--->
+- [All Lectures](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/Lectures_Python_Albuquerque_May2026.pdf)
 
 ### Exercises
 - [Exercise Files 1](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/exercises1_strings_lists.zip)
