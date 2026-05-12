@@ -11,9 +11,7 @@
 - **Fridays:** 12:15–13:45  
   Room S102, Building FAN B
 
----
-
-# Weekly Topics
+## Weekly Topics
 
 | Date | Topic |
 |---|---|
