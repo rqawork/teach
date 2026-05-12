@@ -1,6 +1,6 @@
 ---
 
-# Machine Learning for Beginners [Back](../)
+# Machine Learning for Beginners <sub>[← Back to previous page](../)</sub>
 
 ## - [General Information](general_infos/README.md)
 
