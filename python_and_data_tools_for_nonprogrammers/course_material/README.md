@@ -9,8 +9,8 @@
 - [All Lectures](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/Lectures_Python_Albuquerque_May2026.pdf)
 
 ### Exercises
-Unpack the zip file for the chosen topic in your PC, then run the jupyter notebook file from there.
-- [Strings & Lists](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/1_Strings_Lists/exercises1_strings_lists.zip)
+Some zip files might contain extra txt and png files inside. Unpack the zip file for the chosen topic in your PC, then run the jupyter notebook (.ipynb) file from there.
+- [1 - Strings & Lists](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/1_Strings_Lists/exercises1_strings_lists.zip)
 - [Tuples/Sets/Dictionaries](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/2_Tuples_Sets_Dictionaries/exercises2_tuples_sets_dictionaries.zip)
 - [If & For](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/3_If_For/exercises3_if_for.zip)
 - [Arrays](exercises/4_Arrays/README.md)
