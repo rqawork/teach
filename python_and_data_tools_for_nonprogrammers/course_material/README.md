@@ -9,19 +9,7 @@
 - [All Lectures](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/Lectures_Python_Albuquerque_May2026.pdf)
 
 ### Exercises
-- [Exercise Files 1](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/exercises1_strings_lists.zip)
-- [Exercise Files 2](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/exercises2_tuples_sets_dictionaries.zip)
-- [Exercise Files 3](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/exercises3_if_for.zip)
-- [Exercise Files 4](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/exercises4_arrays.zip)
-- [Exercise Files 5](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/exercises5_pandas_intro.zip)
-
-<!--
-- [Exercise Files 6](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/files6.zip)
-- [Exercise Files 7 - Extra Exercises](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/files7_extra_exercises.zip)
-- [Exercise Files 8](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/files8.zip)
-- [Exercise Files 9](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/files9.zip)
-- [Exercise Files 10](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/files10.zip)
--->
+- [Multi-topics exercises](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/exercises/README.md)
 
 ### Solutions
 - [Solution 1](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_exercise1_strings_lists.zip)
