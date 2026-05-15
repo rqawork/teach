@@ -10,7 +10,7 @@
 In this section, you will find the files and instructions for a Python project that must be completed individually in order to obtain ECTS credits for this course.
 
 
-1 Submission Deadline
+**Submission Deadline**
 
 - Deadline: To be announced
 
