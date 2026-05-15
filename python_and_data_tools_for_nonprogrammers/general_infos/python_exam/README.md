@@ -20,7 +20,7 @@ If, for any reason, you are unable to obtain ECTS credits, you can still receive
 |---|---|
 | Deadline | To be announced |
 | File format | `FirstName_LastName_ImmatriculationNumber.ipynb` |
-| Submission method | Email to albuquerque@uni-bayreuth.de |
+| Submission method | E-mail to albuquerque@uni-bayreuth.de |
 
 Submit one Jupyter Notebook (`.ipynb`) file containing your solution.
 

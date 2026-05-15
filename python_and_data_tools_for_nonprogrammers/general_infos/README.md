@@ -8,4 +8,4 @@
 
 ### - [Final Python Exam](python_exam/README.md)
 
-### - Tutor Information: Aadim (E-Mail: Aadim.Nyaichyai@uni-bayreuth.de)
+### - Tutor: Aadim (E-Mail: Aadim.Nyaichyai@uni-bayreuth.de)
