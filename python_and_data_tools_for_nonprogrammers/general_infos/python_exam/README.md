@@ -8,7 +8,9 @@
 
 ### Overview
 
-This section contains the files and instructions for a Python project that must be completed individually in order to obtain ECTS credits for this course.
+This section contains the general instructions for the final Python project (technical instructions and files [HERE](address)) that must be completed individually in order to obtain ECTS credits for this course.
+
+If, for any reason, you are unable to obtain ECTS credits, you can still receive a general certificate from the Department of Polymer Engineering, provided that you pass the final Python exam. However, we strongly recommend that you contact the secretary or coordinator of your study programme to ask whether the ECTS credits from this Python course can be officially recognized in your programme. In most cases, this recognition is a very simple administrative process (often just a formal approval), but it depends entirely on your individual study programme. Many students have successfully had these ECTS credits recognized in the past.
 
 ---
 
@@ -32,9 +34,9 @@ Each student will give a short presentation of their project:
 
 - **Duration:** 10 minutes (± 2 minutes)
 - **Format:** Presented directly from your submitted Jupyter Notebook
-- **Equipment:** Instructor's laptop — no need to bring your own
+- **Equipment:** Rodrigo's laptop — no need to bring your own
 
-**Dates:** To be announced. Presentations will take place during the usual lecture times and rooms. Additional days may be scheduled if necessary.
+**Dates/Times:** To be announced. Additional days may be scheduled if necessary.
 
 Following the presentation, there will be approximately 5 minutes of questions covering your project and general Python concepts.
 
@@ -42,7 +44,7 @@ Following the presentation, there will be approximately 5 minutes of questions c
 
 ### 3. Exam Registration
 
-To receive ECTS credits, you must register for the exam via **CM Life**.
+To receive ECTS credits, you must register for the exam via **CMLife** (registrations open usually 1 month before the exam).
 
 ---
 
