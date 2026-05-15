@@ -20,16 +20,5 @@ Some zip files might contain extra txt and png files inside. Unpack the zip file
 - [1 - Strings & Lists](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_exercise1_strings_lists.zip)
 - [5 - Pandas](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_exercise5_pandas_intro.zip)
 
-<!--
-- [Solution 3](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/exercise3_solution.zip)
-- [Solution 4](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/exercise4_solution.zip)
-- [Solution 5](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/exercise5_solution.zip)
-- [Solution 6](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/exercise6_solution.zip)
-- [Solution 7 - Extra Exercises](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/files7_extra_exercises_solution.zip)
-- [Solution 8](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/exercise8_solution.zip)
-- [Solution 9](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/files9_solution.zip)
-- [Solution 10](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/exercise10_solution.zip)
-
 ### Online Videos
-- [Online Videos](/teach/python_and_data_tools_for_nonprogrammers/course_material/online_videos/)
--->
+- [Online Videos](online_videos/README.md)
