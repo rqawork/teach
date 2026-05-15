@@ -75,5 +75,3 @@ The project and presentation will be assessed on the following:
 
 ---
 
-Best regards,  
-Rodrigo Albuquerque
