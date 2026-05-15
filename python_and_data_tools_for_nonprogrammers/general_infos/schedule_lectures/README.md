@@ -26,7 +26,7 @@
 | 21.05.2026 (Thu) | Pandas |
 | 22.05.2026 (Fri) | Pandas / Seaborn (+ extra exercises) |
 | 28.05.2026 (Thu) | Revision Exercise — Tutors: Aadim & Subhash |
-| 29.05.2026 (Fri) | Revision Exercise — Tutors: Aadim & Subhash *(Room S108, FAN D)* |
+| 29.05.2026 (Fri) | Revision Exercise — Tutors: Aadim & Subhash <span style="color:red">(Room S108, FAN D)</span> |
 | 11.06.2026 (Thu) | Functions |
 | 12.06.2026 (Fri) | Functions / Own Modules (+ extra exercises) |
 | 18.06.2026 (Thu) | Python Projects I / Syntax — Tutors: Aadim & Subhash |
