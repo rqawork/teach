@@ -1,15 +1,17 @@
+---
 <sub>[← Previous page](../README.md)</sub>
 
 # Python and Data Tools for Non-Programmers
 ## General information
 ### Final Python exam
 
-**Instructions**
+### Instructions
 
 In this section, you will find the files and instructions for a Python project that must be completed individually in order to obtain ECTS credits for this course.
 
 
-- Submission Deadline
+1 Submission Deadline
+
 - Deadline: To be announced
 
 - What to submit: one Jupyter Notebook (.ipynb) file containing your solution
@@ -19,6 +21,7 @@ In this section, you will find the files and instructions for a Python project t
      FirstName_LastName_ImmatriculationNumber.ipynb
 
 - Submission method: send the file by email to albuquerque@uni-bayreuth.de
-Note: Late submissions will not be accepted.
+
+Note: Late submissions will get lower grades!
 
 
