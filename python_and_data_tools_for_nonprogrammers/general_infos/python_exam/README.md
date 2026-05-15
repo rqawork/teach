@@ -12,34 +12,34 @@ This individual project is part of the requirements to obtain the ECTS credits f
 
 ---
 
-## 📦 Project Files
+## Project Files
 
 You can download the project files here:
 
 <!--
-👉 [Download Project Files (.zip)](LINK_TO_YOUR_ZIP_FILE_HERE)
+[Download Project Files (.zip)](LINK_TO_YOUR_ZIP_FILE_HERE)
 -->
 
 ---
 
-## 📅 Important Deadlines
+## Important Deadlines
 
 ### Submission Deadline
 **To be announced – 23:59:59**
 
 Please submit your solution as a **Jupyter Notebook (`.ipynb`)** file via email to:
 
-📧 **albuquerque@uni-bayreuth.de**
+**albuquerque@uni-bayreuth.de**
 
 ---
 
-## 🎤 Project Presentation
+## Project Presentation
 
 Each student will give a short presentation about their solution:
 
 - **Duration:** 10 minutes (+/- 2 minutes)
 - **Dates:**
-  - To be announced
+- To be announced
 
 Presentations will take place during the usual lecture times and rooms.  
 Additional days may be scheduled if necessary.
@@ -55,13 +55,13 @@ After the presentation, there will be approximately **5 minutes of questions** a
 
 ---
 
-## ✅ Exam Registration
+## Exam Registration
 
 To receive the ECTS credits, remember to register for the exam in **CMLife**.
 
 ---
 
-## 💬 Questions and Support
+## Questions and Support
 
 I am available to answer questions related to the project:
 - in my office (FAN A building, room A2.05, second floor)
@@ -72,7 +72,7 @@ Office hours follow an open-door policy whenever possible.
 
 ---
 
-## 📝 Evaluation Criteria
+## Evaluation Criteria
 
 Your final grade will consider several aspects, including:
 
