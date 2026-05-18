@@ -6,6 +6,16 @@
 
 ---
 
+## General instructions
+
+The exam consists into a presentation of a ML investigation described by the steps below, as well as the submission of the corresponding Python code.
+
+You will submit a Python code (as a jupyter notebook file entitled `Lastname_Firstname_ImmatriculationNumber.ipynb`) addressing the steps described below. Your code should be submitted to albuquerque@uni-bayreuth.de until the deadline:
+
+- To be announced
+
+On the day of the presentation (place/time to be announced), you will make a presentation (12 min +/- 2) clearly addressing the steps described below. After your presentation, some general questions (ca 5 min)
+
 ## Step 1: Choose Your Dataset
 
 Select any suitable regression dataset.
