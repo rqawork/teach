@@ -16,6 +16,8 @@ You will submit a Python code (as a jupyter notebook file entitled `Lastname_Fir
 
 On the day of the presentation (place/time to be announced), you will make a presentation (12 min +/- 2) clearly addressing the steps described below. After your presentation, some general questions (ca 5 min)
 
+---
+
 ## Step 1: Choose Your Dataset
 
 Select any suitable regression dataset.
