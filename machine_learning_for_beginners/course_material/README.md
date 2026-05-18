@@ -40,5 +40,5 @@
 - [Solution 10](/teach/machine_learning_for_beginners/course_material/solutions/exercise10_solution.zip)
 
 ### Online Videos
-- [Online Videos](/teach/machine_learning_for_beginners/course_material/online_videos/README.md)
+- [Online Videos](online_videos/README.md)
 
