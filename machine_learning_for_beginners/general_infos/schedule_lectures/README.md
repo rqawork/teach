@@ -4,6 +4,8 @@
 # Machine Learning for Beginners
 ## Schedule of Lectures
 
+---
+
 ## Lecture Times
 
 - **Mondays:** 10:15–11:45  
