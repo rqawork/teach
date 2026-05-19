@@ -6,7 +6,7 @@
 
 ### Overview
 
-This section contains the general instructions for the final Python project (technical instructions and files [HERE](address)) that must be completed individually in order to obtain ECTS credits for this course.
+This section contains the general instructions for the final Python project (technical instructions and files [HERE](./project_master_updated.zip)) that must be completed individually in order to obtain ECTS credits for this course.
 
 If, for any reason, you are unable to obtain ECTS credits, you can still receive a general certificate from the Department of Polymer Engineering, provided that you pass the final Python exam. However, we strongly recommend that you contact the secretary or coordinator of your study programme to ask whether the ECTS credits from this Python course can be officially recognized in your programme. In most cases, this recognition is a very simple administrative process (often just a formal approval), but it depends entirely on your individual study programme. Many students have successfully had these ECTS credits recognized in the past.
 
