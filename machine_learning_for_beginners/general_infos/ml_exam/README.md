@@ -1,4 +1,5 @@
-<sub><a href="../">← Previous page</a></sub>
+---
+<sub>[← Previous page](../README.md)</sub>
 
 # Machine Learning for Beginners
 ## Final ML Exam
@@ -15,7 +16,6 @@ You will submit a Python code (as a jupyter notebook file entitled `Lastname_Fir
 
 On the day of the presentation (place/time to be announced), you will make a presentation (12 min +/- 2) clearly addressing the steps described below. After your presentation, some general questions (ca 5 min)
 
----
 
 ## Step 1: Choose Your Dataset
 
@@ -29,7 +29,6 @@ Make sure the dataset has:
 - Clear input features
 - At least one continuous target variable
 
----
 
 ## Step 2: Train–Test Split (Very Important!)
 
@@ -48,7 +47,6 @@ Do not use it for:
 
 The test set must only be used for the final evaluation.
 
----
 
 ## Step 3: Train and Screen Models
 
@@ -66,7 +64,6 @@ You must test at least the following regression models:
 - Perform CV only on the training set
 - Optimize hyperparameters if needed
 
----
 
 ## Step 4: Evaluate Model Performance
 
@@ -78,7 +75,6 @@ During model screening, report:
 
 Compare all models and select the best one.
 
----
 
 ## Step 5: Final Test Evaluation
 
@@ -94,7 +90,6 @@ Show:
 
 This is your final result.
 
----
 
 ## Step 6: Training Performance
 
@@ -107,7 +102,6 @@ Show:
 
 This helps analyze overfitting.
 
----
 
 ## Step 7: Overfitting Analysis
 
@@ -122,7 +116,6 @@ Discuss:
 - Is it underfitting?
 - Why?
 
----
 
 ## Step 8: Model Variance (Stability)
 
@@ -139,7 +132,6 @@ Report:
 
 Discuss what these values indicate about model stability and robustness.
 
----
 
 ## Step 9: Ensemble Model
 
@@ -153,7 +145,6 @@ Compare:
 
 Discuss advantages and disadvantages.
 
----
 
 ## Good Practice
 
@@ -163,7 +154,6 @@ Discuss advantages and disadvantages.
 - Use clear plots and labels
 - Practice your presentation timing
 
----
 
 ## Common Mistakes to Avoid
 
