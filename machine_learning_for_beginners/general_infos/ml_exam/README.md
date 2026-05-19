@@ -5,7 +5,7 @@
 
 ## General instructions
 
-In order tog et ECTS points, you need to pass in the final ML exam, which consists into: 
+In order to get ECTS points, you need to pass in the final ML exam, which consists into: 
 
 - A presentation of a ML investigation described by the steps below
 - The submission of the corresponding Python code.
@@ -43,7 +43,7 @@ Do **not** use it for:
 - Hyperparameter tuning
 - Cross-validation
 
-The test set must only be used for the final evaluations (Step 5).
+The test set must only be used for the final evaluations (Steps 5 and 9).
 
 
 ## Step 3: Train and Screen Models
@@ -140,7 +140,24 @@ Compare:
 Discuss advantages and disadvantages of your ensembling approach.
 
 
-## Good Practice
+### Grading Criteria
+
+The project and presentation will be assessed on the following:
+
+**Code quality**
+- Have all project requirements been addressed?
+- Is the code well structured and split into the different Steps described above?
+- Are docstrings/comments used appropriately?
+- Is the code clearly organized and readable?
+
+**Presentation and submission**
+- Was the presentation clear and finished on time?
+- Was the final Jupyter notebook file submitted before the deadline?
+- Were the questions answered satisfactorily?
+
+
+
+#### Good Practice
 
 - Keep your work reproducible (fix and report random seeds)
 - Explain your decisions
@@ -148,10 +165,11 @@ Discuss advantages and disadvantages of your ensembling approach.
 - Practice your presentation timing
 
 
-## Common Mistakes to Avoid
+#### Common Mistakes to Avoid
 
 - Using the test set during model tuning
 - Missing preprocessing steps
 - Not explaining methods clearly
 - Poorly labeled figures
 - Exceeding the presentation time limit
+- Not addressing the 9 steps described above
