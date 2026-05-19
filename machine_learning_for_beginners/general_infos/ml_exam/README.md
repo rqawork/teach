@@ -27,6 +27,8 @@ Make sure the dataset has:
 - Clear input features
 - At least one continuous target variable
 
+Be sure to clearly explain your dataset (features and target).
+
 
 ## Step 2: Train–Test Split
 
@@ -35,9 +37,7 @@ Split your dataset into:
 - 80% Training set
 - 20% Test set
 
-Do **not** touch the test set until the end.
-
-Do **not** use it for:
+Do **NOT** use the test set for:
 
 - Model selection
 - Hyperparameter tuning
@@ -71,7 +71,7 @@ During model screening, report:
 - MSE (Mean Squared Error)
 - R² (Coefficient of Determination)
 
-Compare all models (show a bar plot comparing the metrics of all investigated models) and select the best one mainly based on the lowest error. Do not forget to preprocess the dataset.
+Compare all models (show a bar plot comparing the metrics of all investigated models) and select the best one mainly based on the lowest error.
 
 
 ## Step 5: Final Test Evaluation
@@ -89,7 +89,10 @@ Show:
 
 ## Step 6: Training Performance
 
-Evaluate your best model on the training data after having trained it on the same training data.
+After selecting the best model:
+
+1. Retrain the model using the full training set
+2. Evaluate it once on the same training set
 
 Show:
 
@@ -99,7 +102,7 @@ Show:
 
 ## Step 7: Overfitting Analysis
 
-Show side-by-side the parity plots obtained in Steps 5 and 6 above to compare:
+Show the parity plots (side-by-side) obtained in Steps 5 and 6 above to compare:
 
 - Training error
 - Test error
@@ -111,7 +114,7 @@ Discuss:
 - Why?
 
 
-## Step 8: Model Variance (Stability)
+## Step 8: Model Variance
 
 To evaluate model stability:
 
@@ -129,7 +132,7 @@ Discuss these results in terms of model stability/robustness.
 
 ## Step 9: Ensemble Model
 
-- Combine the two best individual ML models screened in Step 3
+- Combine the best two or three individual ML models screened in Step 3
 - Build a simple ensemble model (for example, by averaging predictions)
 
 Compare:
@@ -137,7 +140,7 @@ Compare:
 - Ensemble performance evaluated on the test set
 - Best individual model performance also evaluated on the test set
 
-Discuss advantages and disadvantages of your ensembling approach.
+Discuss advantages and disadvantages of your ensembling approach. How to improve your ensemble model?
 
 
 ### Grading Criteria
@@ -167,7 +170,7 @@ The project and presentation will be assessed on the following:
 
 #### Common Mistakes to Avoid
 
-- Using the test set during model tuning
+- Using the test set during model tuning/training
 - Missing preprocessing steps
 - Not explaining methods clearly
 - Poorly labeled figures
