@@ -1,4 +1,4 @@
-<sub>[← Previous page](../README.md)</sub>
+<sub><a href="../">← Previous page</a></sub>
 
 # Machine Learning for Beginners
 ## Final ML Exam
