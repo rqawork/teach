@@ -143,7 +143,7 @@ Compare:
 Discuss advantages and disadvantages of your ensembling approach. How to improve your ensemble model?
 
 
-### Grading Criteria
+## Grading Criteria
 
 The project and presentation will be assessed on the following:
 
@@ -160,7 +160,7 @@ The project and presentation will be assessed on the following:
 
 
 
-#### Good Practice
+### Good Practice
 
 - Keep your work reproducible (fix and report random seeds)
 - Explain your decisions
@@ -168,7 +168,7 @@ The project and presentation will be assessed on the following:
 - Practice your presentation timing
 
 
-#### Common Mistakes to Avoid
+### Common Mistakes to Avoid
 
 - Using the test set during model tuning/training
 - Missing preprocessing steps
