@@ -1,4 +1,3 @@
----
 <sub>[← Previous page](../)</sub>
 
 # Machine Learning for Beginners 

@@ -1,5 +1,4 @@
----
-<sub>[← Previous page](../)</sub>
+<sub>[← Previous page](../)</sub>  
 
 # Grundlagen der Programmierung (in Python)
 

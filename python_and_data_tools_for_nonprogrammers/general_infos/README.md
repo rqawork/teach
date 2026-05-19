@@ -1,5 +1,4 @@
----
-<sub>[← Previous page](../README.md)</sub>
+<sub>[← Previous page](../README.md)</sub>  
 
 # Python and Data Tools for Non-Programmers
 ## General Information

@@ -1,5 +1,4 @@
----
-<sub>[← Previous page](../README.md)</sub>
+<sub>[← Previous page](../README.md)</sub>  
 
 # Machine Learning for Beginners
 ## Weekly Zoom Meetings
