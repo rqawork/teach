@@ -9,7 +9,7 @@
 ## Lecture Times
 
 - **Mondays:** 10:15–11:45  
-  Room S70, Building NWII
+  Room S70, Building NWII (UBT)
 
 ## Weekly Topics
 
