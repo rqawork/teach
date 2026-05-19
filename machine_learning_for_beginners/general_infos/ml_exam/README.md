@@ -1,10 +1,7 @@
----
 <sub>[← Previous page](../README.md)</sub>
 
 # Machine Learning for Beginners
 ## Final ML Exam
-
----
 
 ## General instructions
 
