@@ -8,4 +8,4 @@
 
 - [Weekly Zoom Meetings](zoom_meetings/README.md)
 
-- [Final ML Exam](ml_exam/README.md)
+- [Final ML Exam](ml_exam/index.html)
