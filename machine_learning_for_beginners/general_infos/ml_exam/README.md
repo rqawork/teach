@@ -8,7 +8,7 @@
 In order to get ECTS points, you need to pass the final ML exam, which consists into: 
 
 - A presentation of a ML investigation described by the Steps 1-9 below
-- The submission of the corresponding Python code + dataset.
+- The submission of the corresponding Python code + dataset
 
 On the day of the presentation, you will make a presentation (12 min +/- 2) clearly addressing the steps described below. After your presentation, some general questions (ca 5 min) shall be made about your presentation and general ML concepts.
 
@@ -52,7 +52,7 @@ Show any data cleaning used:
 - Did you remove outliers? How? 
 - Did you apply any encoding? How?
 
-Show histograms of your features and target. In case there are more than 10 features, show the histogram of the first 10 features. 
+Show histograms of your features and target. In case there are more than 10 features, show the histogram of the first 10 features. If your target has not a gaussian distribution (e.g., exponential distribution), discuss eventual target transformations applied. 
 
 
 ## Step 2: Train–Test Split
@@ -70,21 +70,22 @@ Do **NOT** use the test set for:
 
 The test set must only be used for the final evaluations (Steps 5 and 9).
 
+Show on the same plot the histograms of the target property of the training and test sets (use different colors, don't forget to add the legend in the plot). 
 
 ## Step 3: Train and Screen Models
 
 You must test at least the following regression models:
 
-- Random Forest (RF)
-- Support Vector Regression (SVR)
-- k-Nearest Neighbors (KNN)
+- Random Forest
+- Support Vector Regression
+- k-Nearest Neighbors (use k = 1, 3 and 5)
 - LASSO
-- Gaussian Process (GP)
+- Gaussian Process
 
 #### Model Screening
 
 - Use 5-fold Cross-Validation (CV) only on the training set
-- Optimize hyperparameters if needed
+- Optimize hyperparameters if needed (show the final hyperparameters and their adopted ranges, if applicable)
 - Do not forget to appropriately preprocess your dataset (which scaler did you use and why?)
 
 
@@ -147,7 +148,7 @@ Discuss:
 To evaluate model stability:
 
 - Use the best screened model
-- Apply repeated 5-fold cross-validation on the training set only
+- Apply repeated 5-fold CV on the training set only
 - Use 10 different random seeds
 
 Report:
@@ -175,17 +176,13 @@ Discuss advantages and disadvantages of your ensembling approach. How to improve
 
 The project and presentation will be assessed on the following:
 
-**Code quality**
 - Have all project requirements been addressed?
 - Is the code well structured and split into the different Steps described above?
-- Are docstrings/comments used appropriately?
-- Is the code clearly organized and readable?
-
-**Presentation and submission**
 - Was the presentation clear and finished on time?
-- Was the final Jupyter notebook file submitted before the deadline?
+- Were the final Jupyter notebook + dataset files submitted before the deadline?
 - Were the questions answered satisfactorily?
 
+> **NOTE**: A second evaluator will be present during the presentations
 
 
 ### Good Practice
@@ -202,5 +199,5 @@ The project and presentation will be assessed on the following:
 - Missing preprocessing steps
 - Not explaining methods clearly
 - Poorly labeled figures
-- Exceeding the presentation time limit
+- Not respecting the presentation time limit
 - Not addressing the 9 steps described above
