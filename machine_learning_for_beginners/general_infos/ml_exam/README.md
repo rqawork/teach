@@ -10,11 +10,24 @@ In order to get ECTS points, you need to pass the final ML exam, which consists 
 - A presentation of a ML investigation described by the steps below
 - The submission of the corresponding Python code.
 
-You will submit a Python code (as a jupyter notebook file entitled `Lastname_Firstname_ImmatriculationNumber.ipynb`) addressing the steps described below, as well as a zip file with your dataset. Your code/dataset should be submitted to **albuquerque@uni-bayreuth.de** until the deadline (to be announced).
+You will submit a Python code (as a jupyter notebook file entitled `Lastname_Firstname_ImmatriculationNumber.ipynb`) addressing the steps described below, as well as a zip file with your dataset. Your code/dataset should be submitted to **albuquerque@uni-bayreuth.de** until the deadline.
 
 NOTE: Your code is supposed to load your dataset from the same folder where the jupyter file is located, without using any long path. For instance, if the dataset is in file "mydataset.csv", your code should open it as e.g. `pd.read_csv('mydataset.csv')` and NOT as e.g. `pd.read_csv('C:\\Users\\Documents\\mydataset.csv')`
 
-On the day of the presentation (place/time to be announced), you will make a presentation (12 min +/- 2) clearly addressing the steps described below. After your presentation, some general questions (ca 5 min) shall be made about your presentation and general ML concepts.
+On the day of the presentation, you will make a presentation (12 min +/- 2) clearly addressing the steps described below. After your presentation, some general questions (ca 5 min) shall be made about your presentation and general ML concepts.
+
+#### Submission/Presentation details
+
+| Item | Details |
+|---|---|
+| Deadline of file submission | To be announced |
+| File1 format | `FirstName_LastName_ImmatriculationNumber.ipynb` |
+| File2 format | `dataset.zip` |
+| Submission method | E-mail to albuquerque@uni-bayreuth.de |
+| Presentation place | To be announced |
+| Presentation date/time | To be announced |
+
+> **Note:** Late submissions will receive lower grades. 
 
 
 ## Step 1: Choose/Prepare/Present Your Dataset
