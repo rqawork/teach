@@ -12,7 +12,7 @@ In order to get ECTS points, you need to pass the final ML exam, which consists 
 
 You will submit a Python code (as a jupyter notebook file entitled `Lastname_Firstname_ImmatriculationNumber.ipynb`) addressing the steps described below, as well as a zip file with your dataset. Your code/dataset should be submitted to **albuquerque@uni-bayreuth.de** until the deadline (to be announced).
 
-NOTE: Your code is supposed to load your dataset from the same folder where the jupyter file is located, without using any long path. For instance, if the dataset is in file "mydataset.csv", your code could open it as e.g. `pd.read_csv('mydataset.csv')` and NOT as e.g. `pd.read_csv('C:\\Users\\Documents\\mydataset.csv')`
+NOTE: Your code is supposed to load your dataset from the same folder where the jupyter file is located, without using any long path. For instance, if the dataset is in file "mydataset.csv", your code should open it as e.g. `pd.read_csv('mydataset.csv')` and NOT as e.g. `pd.read_csv('C:\\Users\\Documents\\mydataset.csv')`
 
 On the day of the presentation (place/time to be announced), you will make a presentation (12 min +/- 2) clearly addressing the steps described below. After your presentation, some general questions (ca 5 min) shall be made about your presentation and general ML concepts.
 
