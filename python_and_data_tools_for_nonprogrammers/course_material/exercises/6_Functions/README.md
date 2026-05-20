@@ -5,17 +5,17 @@
 ### Exercises
 #### Functions
 
-- [Artificial Inteligence](functions_Artificial_Intelligence.zip)
+- [Artificial Inteligence](files/functions_Artificial_Intelligence.zip)
 
-- [Biochemistry](functions_Biochemistry.zip)
+- [Biochemistry](files/functions_Biochemistry.zip)
 
-- [Biofabrication](functions_Biofabrication.zip)
+- [Biofabrication](files/functions_Biofabrication.zip)
 
-- [Development Studies](functions_Development_Studies.zip)
+- [Development Studies](files/functions_Development_Studies.zip)
 
-- [Environment, Climate Change and Health](functions_Environment_Climate_change_and_Health.zip)
+- [Environment, Climate Change and Health](files/functions_Environment_Climate_change_and_Health.zip)
 
-- [Geoecology](functions_Geoecology.zip)
+- [Geoecology](files/functions_Geoecology.zip)
 
-- [Sport Business and Law](functions_Sport_Business_and_Law.zip)
+- [Sport Business and Law](files/functions_Sport_Business_and_Law.zip)
 
