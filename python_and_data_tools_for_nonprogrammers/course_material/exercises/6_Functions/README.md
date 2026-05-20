@@ -20,6 +20,6 @@
 - [Sport Business and Law](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/6_Functions/files/functions_Sport_Business_and_Law.zip)
 
 
-### Extra functions/module exercise
+#### Extra functions/module exercise
 
 After having done one of the exercises above, you can do [this exercise](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/6_Functions/files/functions_module_exercise.zip) to learn more about making your own module.
