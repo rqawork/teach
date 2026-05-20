@@ -15,6 +15,8 @@ Some zip files might contain extra txt and png files inside. Unpack the zip file
 - [4 - Arrays](exercises/4_Arrays/README.md)
 - [5 - Pandas](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/5_Pandas/exercises5_pandas_intro.zip)
 - [6 - Functions](exercises/6_Functions/README.md)
+- [Syntax Revision](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/Syntax_Extra_Exercises/syntax_if_for_function_bracket_dot.zip)
+
 
 ### Solutions
 - [1 - Strings & Lists](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_exercise1_strings_lists.zip)
