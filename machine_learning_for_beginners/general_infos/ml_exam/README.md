@@ -5,7 +5,7 @@
 
 ## General instructions
 
-In order to get ECTS points, you need to pass in the final ML exam, which consists into: 
+In order to get ECTS points, you need to pass the final ML exam, which consists into: 
 
 - A presentation of a ML investigation described by the steps below
 - The submission of the corresponding Python code.
