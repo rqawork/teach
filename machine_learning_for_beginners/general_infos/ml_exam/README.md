@@ -10,12 +10,14 @@ In order to get ECTS points, you need to pass in the final ML exam, which consis
 - A presentation of a ML investigation described by the steps below
 - The submission of the corresponding Python code.
 
-You will submit a Python code (as a jupyter notebook file entitled `Lastname_Firstname_ImmatriculationNumber.ipynb`) addressing the steps described below. Your code should be submitted to **albuquerque@uni-bayreuth.de** until the deadline (to be announced).
+You will submit a Python code (as a jupyter notebook file entitled `Lastname_Firstname_ImmatriculationNumber.ipynb`) addressing the steps described below, as well as a zip file with your dataset. Your code/dataset should be submitted to **albuquerque@uni-bayreuth.de** until the deadline (to be announced).
+
+NOTE: Your code is supposed to load your dataset from the same folder where the jupyter file is located, without using any long path. For instance, if the dataset is in file "mydataset.csv", your code could open it as e.g. `pd.read_csv('mydataset.csv')` and NOT as e.g. `pd.read_csv('C:\\Users\\Documents\\mydataset.csv')`
 
 On the day of the presentation (place/time to be announced), you will make a presentation (12 min +/- 2) clearly addressing the steps described below. After your presentation, some general questions (ca 5 min) shall be made about your presentation and general ML concepts.
 
 
-## Step 1: Choose Your Dataset
+## Step 1: Choose/Prepare/Present Your Dataset
 
 Select any suitable **regression** dataset.
 
@@ -33,6 +35,8 @@ Show any data cleaning used:
 
 - Did you remove outliers? How? 
 - Did you apply any encoding? How?
+
+Show histograms of your features and target. In case there are more than 10 features, show the histogram of the first 10 features. 
 
 
 ## Step 2: Train–Test Split
@@ -76,7 +80,9 @@ During model screening, report:
 - MSE (Mean Squared Error)
 - R² (Coefficient of Determination)
 
-Compare all models (show a bar plot comparing the metrics of all investigated models) and select the best one mainly based on the lowest error.
+Compare all models (show a bar plot comparing the metrics of all investigated models) and select the best one based on the lowest error.
+
+- Compare the individual percentage variations of MAE and R² over all screened ML models (e.g., "The MAE of the best model is 50% lower than that of the worst model, the R² of the best model is ..."): Would R² have been a better metrics (instead of MAE) to help choose the best ML model? Why?
 
 
 ## Step 5: Final Test Evaluation
@@ -90,6 +96,7 @@ Show:
 
 - Parity plot (Predicted vs. True values)
 - Performance metrics on the title of the plot
+- Bar plot with the feature importances (use e.g. the permutation importance method)
 
 
 ## Step 6: Training Performance
@@ -137,8 +144,8 @@ Discuss these results in terms of model stability/robustness.
 
 ## Step 9: Ensemble Model
 
-- Combine the best two or three individual ML models screened in Step 3
-- Build a simple ensemble model (for example, by averaging predictions)
+- Select the best two or three individual ML models screened in Step 3
+- Build a simple ensemble model using the selected ML models (for example, by averaging their predictions)
 
 Compare:
 
