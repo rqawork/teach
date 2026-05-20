@@ -5,17 +5,17 @@
 ### Exercises
 #### Functions
 
-- [Artificial Inteligence](files/functions_Artificial_Intelligence.zip)
+- [Artificial Inteligence](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/6_Functions/files/functions_Artificial_Intelligence.zip)
 
-- [Biochemistry](files/functions_Biochemistry.zip)
+- [Biochemistry](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/6_Functions/files/functions_Biochemistry.zip)
 
-- [Biofabrication](files/functions_Biofabrication.zip)
+- [Biofabrication](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/6_Functions/files/functions_Biofabrication.zip)
 
-- [Development Studies](files/functions_Development_Studies.zip)
+- [Development Studies](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/6_Functions/files/functions_Development_Studies.zip)
 
-- [Environment, Climate Change and Health](files/functions_Environment_Climate_change_and_Health.zip)
+- [Environment, Climate Change and Health](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/6_Functions/files/functions_Environment_Climate_change_and_Health.zip)
 
-- [Geoecology](files/functions_Geoecology.zip)
+- [Geoecology](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/6_Functions/files/functions_Geoecology.zip)
 
-- [Sport Business and Law](files/functions_Sport_Business_and_Law.zip)
+- [Sport Business and Law](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/6_Functions/files/functions_Sport_Business_and_Law.zip)
 
