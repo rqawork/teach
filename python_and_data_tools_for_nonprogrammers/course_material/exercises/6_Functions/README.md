@@ -19,6 +19,8 @@
 
 - [Sport Business and Law](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/6_Functions/files/functions_Sport_Business_and_Law.zip)
 
+- [Materials Science](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/6_Functions/files/functions_MaterialsScience.zip)
+
 
 #### Extra functions/module exercise
 
