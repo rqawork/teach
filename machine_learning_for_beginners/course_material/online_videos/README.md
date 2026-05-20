@@ -22,4 +22,4 @@
 
 - [Lecture 9: Gaussian Processes](https://mms.uni-bayreuth.de/Panopto/Pages/Viewer.aspx?id=fea91c19-9b9f-40b7-8126-b37800adef5e)
 
-- [Lecture 10: Design of Experiments](https://mms.uni-bayreuth.de/Panopto/Pages/Viewer.aspx?id=fdbd7204-8145-444c-a4ca-b37800eaa5aa)
+- [Lecture 10: Designing experiments/BO/AL](https://mms.uni-bayreuth.de/Panopto/Pages/Viewer.aspx?id=fdbd7204-8145-444c-a4ca-b37800eaa5aa)
