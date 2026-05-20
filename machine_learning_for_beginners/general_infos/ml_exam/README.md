@@ -29,6 +29,11 @@ Make sure the dataset has:
 
 Be sure to clearly explain your dataset (features and target).
 
+Show any data cleaning used:
+
+- Did you remove outliers? How? 
+- Did you apply any encoding? How?
+
 
 ## Step 2: Train–Test Split
 
@@ -60,7 +65,7 @@ You must test at least the following regression models:
 
 - Use 5-fold Cross-Validation (CV) only on the training set
 - Optimize hyperparameters if needed
-- Do not forget to appropriately preprocess your dataset
+- Do not forget to appropriately preprocess your dataset (which scaler did you use and why?)
 
 
 ## Step 4: Evaluate Model Performance
