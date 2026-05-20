@@ -10,7 +10,7 @@ In order to get ECTS points, you need to pass the final ML exam, which consists 
 - A presentation of a ML investigation described by the steps below
 - The submission of the corresponding Python code.
 
-You will submit a Python code (as a jupyter notebook file entitled `Lastname_Firstname_ImmatriculationNumber.ipynb`) addressing the steps described below, as well as a zip file with your dataset. Your code/dataset should be submitted to **albuquerque@uni-bayreuth.de** until the deadline.
+You will submit a Python code addressing the steps described below, as well as a zip file with your dataset. 
 
 On the day of the presentation, you will make a presentation (12 min +/- 2) clearly addressing the steps described below. After your presentation, some general questions (ca 5 min) shall be made about your presentation and general ML concepts.
 
@@ -18,9 +18,9 @@ On the day of the presentation, you will make a presentation (12 min +/- 2) clea
 
 | Item | Details |
 |---|---|
-| Deadline for file submission | To be announced |
-| File1 format | `FirstName_LastName_ImmatriculationNumber.ipynb` |
-| File2 format | `dataset.zip` |
+| Deadline for files submission | To be announced |
+| File 1 format | `FirstName_LastName_ImmatriculationNumber.ipynb` |
+| File 2 format | `dataset.zip` |
 | Submission method | E-mail to albuquerque@uni-bayreuth.de |
 | Presentation place | To be announced |
 | Presentation date/time | To be announced |
@@ -29,12 +29,13 @@ On the day of the presentation, you will make a presentation (12 min +/- 2) clea
 
 > **NOTE 1**: Your code is supposed to load your dataset from the same folder where the jupyter file is located, without using any long path. For instance, if the dataset is in file "mydataset.csv", your code should open it as e.g. `pd.read_csv('mydataset.csv')` and NOT as e.g. `pd.read_csv('C:\\Users\\Documents\\mydataset.csv')`.
 
-> **NOTE 2**: Late submissions are still accepted but will receive lower grades. 
+> **NOTE 2**: Late submissions are still accepted but will receive worse grades. 
 
 > **NOTE 3**: If, for any reason, you are unable to obtain ECTS credits, you can still receive a general certificate from the Department of Polymer Engineering, provided that you pass the final exam. However, we strongly recommend that you contact the secretary or coordinator of your study programme to ask whether the ECTS credits from this course can be officially recognized in your programme. In most cases, this recognition is a very simple administrative process (often just a formal approval), but it depends entirely on your individual study programme. Many students have successfully had these ECTS credits recognized in the past.
 
-
 <Br><Br>
+# Steps for the final ML project
+
 ## Step 1: Choose/Prepare/Present Your Dataset
 
 Select any suitable **regression** dataset.
