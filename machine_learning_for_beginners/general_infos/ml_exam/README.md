@@ -7,10 +7,8 @@
 
 In order to get ECTS points, you need to pass the final ML exam, which consists into: 
 
-- A presentation of a ML investigation described by the steps below
-- The submission of the corresponding Python code.
-
-You will submit a Python code addressing the steps described below, as well as a zip file with your dataset. 
+- A presentation of a ML investigation described by the Steps 1-9 below
+- The submission of the corresponding Python code + dataset.
 
 On the day of the presentation, you will make a presentation (12 min +/- 2) clearly addressing the steps described below. After your presentation, some general questions (ca 5 min) shall be made about your presentation and general ML concepts.
 
@@ -33,8 +31,7 @@ On the day of the presentation, you will make a presentation (12 min +/- 2) clea
 
 > **NOTE 3**: If, for any reason, you are unable to obtain ECTS credits, you can still receive a general certificate from the Department of Polymer Engineering, provided that you pass the final exam. However, we strongly recommend that you contact the secretary or coordinator of your study programme to ask whether the ECTS credits from this course can be officially recognized in your programme. In most cases, this recognition is a very simple administrative process (often just a formal approval), but it depends entirely on your individual study programme. Many students have successfully had these ECTS credits recognized in the past.
 
-<Br><Br>
-# Steps for the final ML project
+# Steps for the final ML project  
 
 ## Step 1: Choose/Prepare/Present Your Dataset
 
