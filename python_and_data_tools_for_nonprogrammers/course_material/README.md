@@ -25,6 +25,7 @@ Some zip files might contain extra txt and png files inside. Unpack the zip file
 - [2 - Tuples, Sets & Dictionaries](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_tuples_sets_dictionaries.zip)
 - [5 - Pandas](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_exercise5_pandas_intro.zip)
 - [6 - Functions](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/exercises_functions_SOLUTION.zip)
+- [Revision](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_revision.zip)
 - [7 - Files](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_files.zip)
 - [Syntax Revision](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/syntax_if_for_function_bracket_dot_SOLUTION.zip)
 
