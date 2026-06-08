@@ -16,12 +16,12 @@ On the day of the presentation, you will make a presentation (12 min +/- 2) clea
 
 | Item | Details |
 |---|---|
-| Deadline for files submission | To be announced |
+| Deadline for files submission | 17 July 2026 |
 | File 1 format | `FirstName_LastName_ImmatriculationNumber.ipynb` |
 | File 2 format | `dataset.zip` |
 | Submission method | E-mail to albuquerque@uni-bayreuth.de |
 | Presentation place | To be announced |
-| Presentation date/time | To be announced |
+| Presentation date/time | 20 July 2026 from 09:00-12:00 |
 
 #### Important notes
 
