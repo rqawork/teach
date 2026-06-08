@@ -15,7 +15,7 @@ If, for any reason, you are unable to obtain ECTS credits, you can still receive
 
 | Item | Details |
 |---|---|
-| Deadline | To be announced |
+| Deadline | 17 July 2026 |
 | File format | `FirstName_LastName_ImmatriculationNumber.ipynb` |
 | Submission method | E-mail to albuquerque@uni-bayreuth.de |
 
@@ -32,7 +32,7 @@ Each student will give a short presentation of their project:
 - **Format:** Presented directly from your submitted Jupyter Notebook
 - **Equipment:** Rodrigo's laptop — no need to bring your own
 
-**Dates/Times:** To be announced. Additional days may be scheduled if necessary.
+**Dates/Times:** 23 July 2026 from 09:00-12:00 (place to be announced). Additional days may be scheduled if necessary.
 
 Following the presentation, there will be approximately 5 minutes of questions covering your project and general Python concepts.
 
