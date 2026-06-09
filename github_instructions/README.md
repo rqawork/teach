@@ -16,6 +16,8 @@ After cloning, enter the repository folder:
 cd teach
 ```
 
-You now have a local copy of the repository and can access all files on your computer. You can repeat the clone command above to get the latest version of the repository each time it has been updated.
+You now have a local copy of the repository and can access all files on your computer (try not to modify the files there, you can alternatively copy some of the files elsewhere on your compute and modify them). Whenever new content was added to the online repository, you can easily update your local copy of the repository by running the following command **while inside the teach folder**:
  
-
+```bash
+git pull
+```
