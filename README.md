@@ -1,6 +1,6 @@
-Repository for digitalization lectures (Python + Machine Learning) at University of Bayreuth, Germany. The lectures are delivered by Dr. Rodrigo Albuquerque.
+Repository for digitalization lectures (Python + Machine Learning) at University of Bayreuth, Germany. The lectures are delivered by Dr. Rodrigo Albuquerque from the Department of Polymer Engineering.
 
-Link of this repository: https://github.com/rqawork/teach
+You can either download/read selected content using the three links below or simply download the whole repository (instructions [here](github_instructions/README.md)).
 
 # Digitalization courses
 
@@ -11,3 +11,5 @@ Link of this repository: https://github.com/rqawork/teach
 
 ### - [Grundlagen der Programmierung (in Python)](grundlagen_der_programmierung_in_python/README.md)
 
+
+Last update: 09-June-2026
