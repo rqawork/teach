@@ -17,6 +17,7 @@ Some zip files might contain extra txt and png files inside. Unpack the zip file
 - [Revision](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/Revision/revision_28-29_May2026.zip)
 - [6 - Functions](exercises/6_Functions/README.md)
 - [7 - Files](exercises/7_Files/README.md)
+- [8 - Graphics (Matplotlib)](exercises/8_Matplotlib/README.md)
 - [Syntax Revision](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/Syntax_Extra_Exercises/syntax_if_for_function_bracket_dot.zip)
 
 
