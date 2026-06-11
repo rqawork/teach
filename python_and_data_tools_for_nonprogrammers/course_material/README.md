@@ -30,6 +30,7 @@ Some zip files might contain extra txt and png files inside. Unpack the zip file
 - [6 - Functions](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/exercises_functions_SOLUTION.zip)
 - [Revision](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_revision.zip)
 - [7 - Files](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_files.zip)
+- [8 - Graphics (Matplotlib)](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_matplotlib.zip)
 - [Syntax Revision](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/syntax_if_for_function_bracket_dot_SOLUTION.zip)
 
 
