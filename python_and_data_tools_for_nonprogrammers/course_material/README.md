@@ -18,7 +18,8 @@ Some zip files might contain extra txt and png files inside. Unpack the zip file
 - [6 - Functions](exercises/6_Functions/README.md)
 - [7 - Files](exercises/7_Files/README.md)
 - [8 - Graphics (Matplotlib)](exercises/8_Matplotlib/README.md)
-- [9a - Object Oriented Programming](exercises/9_Object_Oriented_Programming/exercise_oop1.zip)
+- [9 - Object Oriented Programming (part 1)](exercises/9_Object_Oriented_Programming/exercise_oop1.zip)
+- [9 - Object Oriented Programming (part 2)](exercises/9_Object_Oriented_Programming/exercise_oop2.zip)
 - [Syntax Revision](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/Syntax_Extra_Exercises/syntax_if_for_function_bracket_dot.zip)
 
 
