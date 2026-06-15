@@ -12,4 +12,4 @@ You can either download/read selected content using the three links below or sim
 ### - [Grundlagen der Programmierung (in Python)](grundlagen_der_programmierung_in_python/README.md)
 
 
-Last update: 11-June-2026
+Last update: 15-June-2026
