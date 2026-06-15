@@ -35,9 +35,9 @@ On the day of the presentation, you will make a presentation (12 min +/- 2) clea
 
 ## Step 1: Choose/Prepare/Present Your Dataset
 
-Select any suitable **regression** dataset.
+Select any suitable **regression** dataset (Do not select datasets already discussed in our Machine Learning course: grades will be lower otherwise).
 
-Public sources such as Kaggle.com are allowed. You can also take your own data.
+Public sources such as Kaggle.com are allowed. You can also take your own data, but pay attention to the points below.
 
 Make sure the dataset has:
 
@@ -70,7 +70,8 @@ Do **NOT** use the test set for:
 
 The test set must only be used for the final evaluations (Steps 5 and 9).
 
-Show on the same plot the histograms of the target property of the training and test sets (use different colors, don't forget to add the legend in the plot). 
+Show on the same plot the histograms of the target property of the training and test sets (use different colors, don't forget to add the legend in the plot).
+Did you apply scaling on the features and/or on the target? How? Why?  
 
 ## Step 3: Train and Screen Models
 
@@ -80,7 +81,7 @@ You must test at least the following regression models:
 - Support Vector Regression
 - k-Nearest Neighbors (use k = 1, 3 and 5)
 - LASSO
-- Gaussian Process
+- Gaussian Processes (make sure the kernel parameters are optimized)
 
 #### Model Screening
 
