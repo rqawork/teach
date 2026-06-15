@@ -71,7 +71,6 @@ Do **NOT** use the test set for:
 The test set must only be used for the final evaluations (Steps 5 and 9).
 
 Show on the same plot the histograms of the target property of the training and test sets (use different colors, don't forget to add the legend in the plot).
-Did you apply scaling on the features and/or on the target? How? Why?  
 
 ## Step 3: Train and Screen Models
 
