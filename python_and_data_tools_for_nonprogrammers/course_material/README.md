@@ -20,6 +20,7 @@ Some zip files might contain extra txt and png files inside. Unpack the zip file
 - [8 - Graphics (Matplotlib)](exercises/8_Matplotlib/README.md)
 - [9 - Object Oriented Programming (part 1)](exercises/9_Object_Oriented_Programming/exercise_oop1.zip)
 - [9 - Object Oriented Programming (part 2)](exercises/9_Object_Oriented_Programming/exercise_oop2.zip)
+- [Extra Projects for Practicing](exercises/extra_projects_for_practicing/README.md)
 - [Syntax Revision](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/Syntax_Extra_Exercises/syntax_if_for_function_bracket_dot.zip)
 - [ChatGPT Debugging](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/ChatGPT/exercise_ChatGPT.zip)
 
