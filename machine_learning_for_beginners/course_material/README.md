@@ -33,9 +33,9 @@
 - [4. Classification](/teach/machine_learning_for_beginners/course_material/solutions/exercise4_solution.zip)
 - [5. Random Forests](/teach/machine_learning_for_beginners/course_material/solutions/exercise5_solution.zip)
 - [6. PCA & KMeans](/teach/machine_learning_for_beginners/course_material/solutions/exercise6_solution.zip)
+- [Solution 7 - Extra Exercises](/teach/machine_learning_for_beginners/course_material/solutions/files7_extra_exercises_solution.zip)
 
 <!--
-- [Solution 7 - Extra Exercises](/teach/machine_learning_for_beginners/course_material/solutions/files7_extra_exercises_solution.zip)
 - [8. Simple ANNs](/teach/machine_learning_for_beginners/course_material/solutions/exercise8_solution.zip)
 - [9. Gaussian Processes](/teach/machine_learning_for_beginners/course_material/solutions/files9_solution.zip)
 - [10. Designing experiments/BO/AL](/teach/machine_learning_for_beginners/course_material/solutions/exercise10_solution.zip)
