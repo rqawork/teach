@@ -3,7 +3,10 @@
 # Python and Data Tools for Non-Programmers
 ## Course Material
 ### Exercises
-#### Arrays
+#### Files
+
+
+- [Auxiliary files (Lecture)](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/7_Files/files/auxiliary_files.zip)
 
 - [Artificial Intelligence](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/7_Files/files/exercises_files_AI.zip)
 
