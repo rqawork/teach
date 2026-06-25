@@ -32,9 +32,9 @@ Some zip files might contain extra txt and png files inside. Unpack the zip file
 - [4 - Arrays](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution4_arrays.zip)
 - [5 - Pandas](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_exercise5_pandas_intro.zip)
 - [Revision](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_revision.zip)
+- [6 - Functions](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/exercises_functions_SOLUTION.zip)
 
 <!--
-- [6 - Functions](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/exercises_functions_SOLUTION.zip)
 - [7 - Files](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_files.zip)
 - [8 - Graphics (Matplotlib)](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_matplotlib.zip)
 - [9 - Object Oriented Programming (part 1)](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_oop1.zip)
