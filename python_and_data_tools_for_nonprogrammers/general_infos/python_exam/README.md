@@ -32,7 +32,10 @@ Each student will give a short presentation of their project:
 - **Format:** Presented directly from your submitted Jupyter Notebook
 - **Equipment:** Rodrigo's laptop — no need to bring your own
 
-**Dates/Times:** 23 July 2026 from 09:00-12:00 (place to be announced). Additional days may be scheduled if necessary.
+**Dates/Times:** 24 July 2026 from 09:00-12:00. 
+**Location:** Room S101, FAN A
+
+`Note`: Additional days may be scheduled if necessary.
 
 Following the presentation, there will be approximately 5 minutes of questions covering your project and general Python concepts.
 
