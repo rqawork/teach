@@ -20,7 +20,7 @@ On the day of the presentation, you will make a presentation (12 min +/- 2) clea
 | File 1 format | `FirstName_LastName_ImmatriculationNumber.ipynb` |
 | File 2 format | `dataset.zip` |
 | Submission method | E-mail to albuquerque@uni-bayreuth.de |
-| Presentation place | To be announced |
+| Presentation place | Room S101, FAN A |
 | Presentation date/time | 20 July 2026 from 09:00-12:00 |
 
 #### Important notes
