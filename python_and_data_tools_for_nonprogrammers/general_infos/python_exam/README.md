@@ -36,7 +36,7 @@ Each student will give a short presentation of their project:
 - 23 July 2026 from 09:00-12:00 (Room S103, FAN B)
 - 24 July 2026 from 09:00-12:00 (Room S101, FAN A)
 
-`Note`: Additional days may be scheduled if necessary.
+> **Note:** Additional days may be scheduled if necessary.
 
 Following the presentation, there will be approximately 5 minutes of questions covering your project and general Python concepts.
 
@@ -52,6 +52,7 @@ You are welcome to reach out at any time before the project deadline:
 
 - **In person:** FAN A building, 2nd floor, Room A2.05 (open-door policy)
 - **Online:** Teams, Zoom, or email
+
 
 
 ### 5. Grading Criteria
