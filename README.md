@@ -12,4 +12,8 @@ You can either download/read selected content using the three links below or sim
 ### - [Grundlagen der Programmierung (in Python)](grundlagen_der_programmierung_in_python/README.md)
 
 
+### Available hours of Rodrigo Albuquerque
+
+> I have an open-doors policy, feel free to come to my office (FAN A building, 2nd floor, Room A2.05) at any time or send me a message (albuquerque@uni-bayreuth.de) to schedule in-person or online meetings.
+
 Last update: 26 - June - 2026
