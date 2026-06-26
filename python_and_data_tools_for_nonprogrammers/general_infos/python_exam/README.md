@@ -32,8 +32,9 @@ Each student will give a short presentation of their project:
 - **Format:** Presented directly from your submitted Jupyter Notebook
 - **Equipment:** Rodrigo's laptop — no need to bring your own
 
-**Dates/Times:** 24 July 2026 from 09:00-12:00. 
-**Location:** Room S101, FAN A
+**Dates/Times:** 
+- 23 July 2026 from 09:00-12:00 (Room S103, FAN B)
+- 24 July 2026 from 09:00-12:00 (Room S101, FAN A)
 
 `Note`: Additional days may be scheduled if necessary.
 
