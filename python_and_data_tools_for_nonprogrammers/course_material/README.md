@@ -23,6 +23,7 @@ Some zip files might contain extra txt and png files inside. Unpack the zip file
 - [Extra Projects for Practicing](exercises/extra_projects_for_practicing/README.md)
 - [Syntax Revision](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/Syntax_Extra_Exercises/syntax_if_for_function_bracket_dot.zip)
 - [ChatGPT Debugging](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/ChatGPT/exercise_ChatGPT.zip)
+- [Robots Project](/teach/python_and_data_tools_for_nonprogrammers/course_material/exercises/Robots_Project/robot_files.zip)
 
 
 ### Solutions
@@ -33,9 +34,8 @@ Some zip files might contain extra txt and png files inside. Unpack the zip file
 - [5 - Pandas](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_exercise5_pandas_intro.zip)
 - [Revision](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_revision.zip)
 - [6 - Functions](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/exercises_functions_SOLUTION.zip)
-
-<!--
 - [7 - Files](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_files.zip)
+<!--
 - [8 - Graphics (Matplotlib)](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_matplotlib.zip)
 - [9 - Object Oriented Programming (part 1)](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_oop1.zip)
 - [9 - Object Oriented Programming (part 2)](/teach/python_and_data_tools_for_nonprogrammers/course_material/solutions/solution_oop2.zip)
