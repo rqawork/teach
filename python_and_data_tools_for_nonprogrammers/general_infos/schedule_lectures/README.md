@@ -35,8 +35,8 @@
 | 26.06.2026 (Fri) | Files (+ extra exercises) |
 | 02.07.2026 (Thu) | Matplotlib |
 | 03.07.2026 (Fri) | ChatGPT + Matplotlib (+ extra exercises) |
-| 09.07.2026 (Thu) | Python Projects II: Robots! |
-| 10.07.2026 (Fri) | Python Projects II Robots! |
+| 09.07.2026 (Thu) | Python Projects II: Robots! (Tutors: Aadim & Subhash) |
+| 10.07.2026 (Fri) | Python Projects II Robots! (Tutors: Aadim & Subhash)|
 | 16.07.2026 (Thu) | Revision / General Projects |
 | 17.07.2026 (Fri) | Revision / General Projects |
 
