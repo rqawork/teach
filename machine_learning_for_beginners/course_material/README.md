@@ -25,6 +25,8 @@
 - [8. Simple ANNs](/teach/machine_learning_for_beginners/course_material/exercises/files8.zip)
 - [9. Gaussian Processes](/teach/machine_learning_for_beginners/course_material/exercises/files9.zip)
 - [10. Designing experiments/BO/AL](/teach/machine_learning_for_beginners/course_material/exercises/files10.zip)
+- [11. Extra project](/teach/machine_learning_for_beginners/course_material/exercises/files11.zip)
+
 
 ### Solutions
 - [1. Data Types/Operators](/teach/machine_learning_for_beginners/course_material/solutions/exercise1_solution.zip)
