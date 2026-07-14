@@ -91,7 +91,7 @@ You must test at least the following regression models:
 
 ## Step 4: Evaluate Model Performance
 
-During model screening, report the following metricsi averaged over the validation folds (do not forget the standard deviation):
+During model screening, report the following metrics averaged over the validation folds (do not forget the standard deviation):
 
 - MAE (Mean Absolute Error)
 - MSE (Mean Squared Error)
