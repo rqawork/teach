@@ -35,7 +35,7 @@ On the day of the presentation, you will make a presentation (12 min +/- 2) clea
 
 ## Step 1: Choose/Prepare/Present Your Dataset
 
-Select any suitable **regression** dataset (Do not select datasets already discussed in our Machine Learning course: grades will be lower otherwise).
+Select any suitable **regression** dataset (Do not select datasets already discussed in our Machine Learning lectures or exercises: grades will be lower otherwise).
 
 Public sources such as Kaggle.com are allowed. You can also take your own data, but pay attention to the points below.
 
@@ -91,7 +91,7 @@ You must test at least the following regression models:
 
 ## Step 4: Evaluate Model Performance
 
-During model screening, report:
+During model screening, report the following metricsi averaged over the validation folds (do not forget the standard deviation):
 
 - MAE (Mean Absolute Error)
 - MSE (Mean Squared Error)
@@ -151,7 +151,7 @@ To evaluate model stability:
 - Apply repeated 5-fold CV on the training set only
 - Use 10 different random seeds
 
-Report:
+Report for the validation folds:
 
 - Average MAE
 - Standard deviation of MAE
