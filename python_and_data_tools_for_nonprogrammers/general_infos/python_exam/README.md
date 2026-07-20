@@ -4,6 +4,30 @@
 
 ## Final Python Exam
 
+### Order of Presentations
+
+
+#### Thursday, 23 July 2026 (09:00–12:00, Room S103, FAN B)
+
+1. Nida Erdogan
+2. Ajith Kumar
+3. Niusha Sadeghi
+4. Selina Müller
+5. Jinyu Zou
+6. Ruohan Cheng
+7. Anna Lena Vienken
+8. Beate Ceglar
+
+#### Friday, 24 July 2026 (09:00–12:00, Room S101, FAN A)
+
+1. Moritz Albrecht
+2. Jay Prafulkumar Patel
+3. Kishore Prakash Kumar
+4. Ana Pires Pereira
+5. Ibrahim Toksal
+6. Muhammad Iqbal
+7. Simon Bäumer
+
 ### Overview
 
 This section contains the general instructions for the final Python project (technical instructions and files [HERE](./project_master_updated.zip)) that must be completed individually in order to obtain ECTS credits for this course.
