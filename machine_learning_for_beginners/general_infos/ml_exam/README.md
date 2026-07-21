@@ -23,6 +23,13 @@ On the day of the presentation, you will make a presentation (12 min +/- 2) clea
 | Presentation place | Room S101, FAN A |
 | Presentation date/time | 20 July 2026 from 09:00-12:00 |
 
+###### Order of presentations (to be announced)
+
+1. Student 1
+2. Student 2
+3. Etc
+
+
 #### Important notes
 
 > **NOTE 1**: Your code is supposed to load your dataset from the same folder where the jupyter file is located, without using any long path. For instance, if the dataset is in file "mydataset.csv", your code should open it as e.g. `pd.read_csv('mydataset.csv')` and NOT as e.g. `pd.read_csv('C:\\Users\\Documents\\mydataset.csv')`.
@@ -161,7 +168,7 @@ Discuss these results in terms of model stability/robustness.
 
 ## Step 9: Ensemble Model
 
-- Select the best two or three individual ML models screened in Step 3
+- Select the best two as well as the best three individual ML models screened in Step 3
 - Build a simple ensemble model using the selected ML models (for example, by averaging their predictions)
 
 Compare:
@@ -169,7 +176,9 @@ Compare:
 - Ensemble performance evaluated on the test set
 - Best individual model performance also evaluated on the test set
 
-Discuss advantages and disadvantages of your ensembling approach. How to improve your ensemble model?
+Discuss advantages and disadvantages of your ensembling approach. 
+Don't forget to show the corresponding parity plots for the ensemble models and best individual model, side-by-side on the same slide (MAE and R2 should be shown on the titles of the subplots).
+How to improve your ensemble model?
 
 
 ## Grading Criteria
