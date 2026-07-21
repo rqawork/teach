@@ -24,19 +24,20 @@ On the day of the presentation, you will make a presentation (12 min +/- 2) clea
 | Presentation date/time | 20 July 2026 from 09:00-12:00 |
 
 ###### Order of presentations (to be announced)
+`Note:` Due to students complaints, this order will NOT be changed. If you cannot do your presentation for any reason, a second/last chance will be given about one week later (contact the instructor for more infos in this case), where grades shall become lower. Fortunately this course is offered every semester, so you can also do the exam next semester.
 
-1. Student 1
-2. Student 2
-3. Etc
+1. Student A
+2. Student B
+3. Etc.
 
 
 #### Important notes
 
 > **NOTE 1**: Your code is supposed to load your dataset from the same folder where the jupyter file is located, without using any long path. For instance, if the dataset is in file "mydataset.csv", your code should open it as e.g. `pd.read_csv('mydataset.csv')` and NOT as e.g. `pd.read_csv('C:\\Users\\Documents\\mydataset.csv')`.
 
-> **NOTE 2**: Late submissions are still accepted but will receive worse grades. 
+> **NOTE 2**: Late file submissions are not accepted: If you fail to submit your file/code before the deadline, you can try to submit it again in the next semester, as this course is offered every semester. 
 
-> **NOTE 3**: If, for any reason, you are unable to obtain ECTS credits, you can still receive a general certificate from the Department of Polymer Engineering, provided that you pass the final exam. However, we strongly recommend that you contact the secretary or coordinator of your study programme to ask whether the ECTS credits from this course can be officially recognized in your programme. In most cases, this recognition is a very simple administrative process (often just a formal approval), but it depends entirely on your individual study programme. Many students have successfully had these ECTS credits recognized in the past.
+> **NOTE 3**: If, for any reason, you are unable to obtain ECTS credits, you can still receive a general certificate from the Department of Polymer Engineering, provided that you pass the final exam. However, we strongly recommend that you contact the secretary or coordinator of your study programme to ask whether the ECTS credits from this course can be officially recognized in your programme. In most cases, this recognition is a very simple administrative process (often just a formal approval or "pushing a button"), but it depends entirely on your individual study programme. Many students have successfully had these ECTS credits recognized in the past.
 
 # Steps for the final ML project  
 
