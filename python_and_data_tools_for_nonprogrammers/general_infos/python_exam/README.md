@@ -5,7 +5,7 @@
 ## Final Python Exam
 
 ### Order of Presentations
-
+`Note:` Due to students complaints, this order will NOT be changed. If you cannot do your presentation for any reason, a second/last chance will be given about one week later (contact the instructor for more infos in this case), where grades shall become lower. Fortunately this course is offered every semester, so you can also do the exam next semester.
 
 #### Thursday, 23 July 2026 (09:00–12:00, Room S103, FAN B)
 
