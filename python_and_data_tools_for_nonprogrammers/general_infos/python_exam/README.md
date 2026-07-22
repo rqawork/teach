@@ -18,7 +18,7 @@
 7. Anna Lena Vienken
 8. Beate Ceglar
 
-#### Friday, 24 July 2026 (09:00–12:00, Room S101, FAN A - <span style="color:red">eventually it could be at Room S138, NWIII: check for last-minute infos at the door of Room S101 just in case</span>)
+#### Friday, 24 July 2026 (09:00–12:00, <span style="color:red">Room S138, NWIII</span>)
 
 1. Moritz Albrecht
 2. Jay Prafulkumar Patel
@@ -58,7 +58,7 @@ Each student will give a short presentation of their project:
 
 **Dates/Times:** 
 - 23 July 2026 from 09:00-12:00 (Room S103, FAN B)
-- 24 July 2026 from 09:00-12:00 (Room S101, FAN A)
+- 24 July 2026 from 09:00-12:00 (Room S138, NW III)
 
 > **Note:** Additional days may be scheduled if necessary.
 
