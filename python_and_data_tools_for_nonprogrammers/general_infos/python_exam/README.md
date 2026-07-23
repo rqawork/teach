@@ -9,7 +9,6 @@
 
 #### Thursday, 23 July 2026 (09:00–12:00, Room S103, FAN B)
 
-1. Nida Erdogan
 2. Ajith Kumar
 3. Niusha Sadeghi
 4. Selina Müller
@@ -27,6 +26,7 @@
 5. Ibrahim Toksal
 6. Muhammad Iqbal
 7. Simon Bäumer
+8. Nida Erdogan
 
 ### Overview
 
