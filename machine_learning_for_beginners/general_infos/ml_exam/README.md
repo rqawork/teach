@@ -7,10 +7,10 @@
 
 In order to get ECTS points, you need to pass the final ML exam, which consists into: 
 
-- A presentation of a ML investigation described by the Steps 1-9 below
+- A powerpoint presentation of a ML investigation described by the Steps 1-9 below
 - The submission of the corresponding Python code + dataset before the deadline
 
-On the day of the presentation, you will make a presentation (12 min +/- 2) clearly addressing the steps described below. After your presentation, some general questions (ca 5 min) shall be made about your presentation and general ML concepts.
+On the day of the presentation, you will make a powerpoint presentation (12 min +/- 2) clearly addressing the steps described below (no need to show the code). After your presentation, some general questions (ca 5 min) shall be made about your presentation and general ML concepts.
 
 #### Submission/Presentation details
 
