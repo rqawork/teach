@@ -42,7 +42,7 @@ Following the presentation, there will be approximately 5 minutes of questions c
 
 ##### Order of presentations
 
-`Note:` Due to students complaints, this order will NOT be changed. If you cannot do your presentation for any reason, a second/last chance will be given about one week later (contact the instructor for more infos in this case), where grades shall become lower.
+`Note:` Due to student feedback, this presentation schedule will not be changed. If you are unable to present on your assigned date, a final opportunity will be provided approximately one week later (please contact the instructor for details). Please note that late presentations will receive a grade penalty unless a valid medical certificate is provided.
 
 1. Student A
 2. Student B
