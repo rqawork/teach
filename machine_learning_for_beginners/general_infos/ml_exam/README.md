@@ -8,7 +8,7 @@
 In order to get ECTS points, you need to pass the final ML exam, which consists into: 
 
 - A presentation of a ML investigation described by the Steps 1-9 below
-- The submission of the corresponding Python code + dataset
+- The submission of the corresponding Python code + dataset before the deadline
 
 On the day of the presentation, you will make a presentation (12 min +/- 2) clearly addressing the steps described below. After your presentation, some general questions (ca 5 min) shall be made about your presentation and general ML concepts.
 
@@ -16,15 +16,18 @@ On the day of the presentation, you will make a presentation (12 min +/- 2) clea
 
 | Item | Details |
 |---|---|
-| Deadline for files submission | 17 July 2026 at 23:59:59 |
+| Deadline for files submission | To Be Announced, at 23:59:59 |
 | File 1 format | `FirstName_LastName_ImmatriculationNumber.ipynb` |
 | File 2 format | `dataset.zip` |
 | Submission method | E-mail to albuquerque@uni-bayreuth.de |
-| Presentation place | Room S101, FAN A |
-| Presentation date/time | 20 July 2026 from 09:00-12:00 |
+| Presentation place | To be announced |
+| Presentation date/time | To be announced |
+
+`NOTE:` If you do not submit the required files by the deadline, you will not be permitted to deliver your final project presentation. Fortunately, this course is offered every semester, so you will have the opportunity to try again next term.
+
 
 ###### Order of presentations (to be announced)
-`Note:` Due to students complaints, this order will NOT be changed. If you cannot do your presentation for any reason, a second/last chance will be given about one week later (contact the instructor for more infos in this case), where grades shall become lower. Fortunately this course is offered every semester, so you can also do the exam next semester.
+`Note:` Due to student feedback, this presentation schedule will not be changed. If you are unable to present on your assigned date, a final opportunity will be provided approximately one week later (please contact the instructor for details). Please note that late presentations will receive a grade penalty unless a valid medical certificate is provided.
 
 1. Student A
 2. Student B
@@ -35,9 +38,7 @@ On the day of the presentation, you will make a presentation (12 min +/- 2) clea
 
 > **NOTE 1**: Your code is supposed to load your dataset from the same folder where the jupyter file is located, without using any long path. For instance, if the dataset is in file "mydataset.csv", your code should open it as e.g. `pd.read_csv('mydataset.csv')` and NOT as e.g. `pd.read_csv('C:\\Users\\Documents\\mydataset.csv')`.
 
-> **NOTE 2**: Late file submissions are not accepted: If you fail to submit your file/code before the deadline, you can try to submit it again in the next semester, as this course is offered every semester. 
-
-> **NOTE 3**: If, for any reason, you are unable to obtain ECTS credits, you can still receive a general certificate from the Department of Polymer Engineering, provided that you pass the final exam. However, we strongly recommend that you contact the secretary or coordinator of your study programme to ask whether the ECTS credits from this course can be officially recognized in your programme. In most cases, this recognition is a very simple administrative process (often just a formal approval or "pushing a button"), but it depends entirely on your individual study programme. Many students have successfully had these ECTS credits recognized in the past.
+> **NOTE 2**: If, for any reason, you are unable to obtain ECTS credits, you can still receive a general certificate from the Department of Polymer Engineering, provided that you pass the final exam. However, we strongly recommend that you contact the secretary or coordinator of your study programme to ask whether the ECTS credits from this course can be officially recognized in your programme. In most cases, this recognition is a very simple administrative process (often just a formal approval or "pushing a button"), but it depends entirely on your individual study programme. Many students of VERY different study programmes have successfully had these ECTS credits recognized in the past.
 
 # Steps for the final ML project  
 
@@ -99,7 +100,7 @@ You must test at least the following regression models:
 
 ## Step 4: Evaluate Model Performance
 
-During model screening, report the following metrics averaged over the validation folds (do not forget the standard deviation):
+During model screening, report the following metrics averaged over the validation folds (do not forget the standard deviation and to explicitly say which part of the dataset you have used):
 
 - MAE (Mean Absolute Error)
 - MSE (Mean Squared Error)
