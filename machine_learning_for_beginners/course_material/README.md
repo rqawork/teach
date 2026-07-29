@@ -29,6 +29,8 @@
 
 
 ### Solutions
+
+<!--
 - [1. Data Types/Operators](/teach/machine_learning_for_beginners/course_material/solutions/exercise1_solution.zip)
 - [2. Preprocessing & kNN](/teach/machine_learning_for_beginners/course_material/solutions/exercise2_solution.zip)
 - [3. Linear Regression](/teach/machine_learning_for_beginners/course_material/solutions/exercise3_solution.zip)
@@ -38,8 +40,6 @@
 - [Solution 7 - Extra Exercises](/teach/machine_learning_for_beginners/course_material/solutions/files7_extra_exercises_solution.zip)
 - [8. Simple ANNs](/teach/machine_learning_for_beginners/course_material/solutions/exercise8_solution.zip)
 - [9. Gaussian Processes](/teach/machine_learning_for_beginners/course_material/solutions/files9_solution.zip)
-
-<!--
 - [10. Designing experiments/BO/AL](/teach/machine_learning_for_beginners/course_material/solutions/exercise10_solution.zip)
 - [11. Extra project](/teach/machine_learning_for_beginners/course_material/solutions/exercise11_solution.zip)
 -->
