@@ -26,7 +26,7 @@ Submit one Jupyter Notebook (`.ipynb`) file containing your solution.
 
 ### 2. Project Presentation
 
-Each student will give a short presentation of their project:
+Each student will give a short presentation of their project in order to explain the structure of the code and the most important lines in the code:
 
 - **Duration:** 10 minutes (± 2 minutes)
 - **Format:** Presented directly from your submitted Jupyter Notebook
