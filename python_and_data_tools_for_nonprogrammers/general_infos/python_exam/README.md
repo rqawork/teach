@@ -4,48 +4,24 @@
 
 ## Final Python Exam
 
-### Order of Presentations
-`Note:` Due to students complaints, this order will NOT be changed. If you cannot do your presentation for any reason, a second/last chance will be given about one week later (contact the instructor for more infos in this case), where grades shall become lower. Fortunately this course is offered every semester, so you can also do the exam next semester.
-
-#### Thursday, 23 July 2026 (09:00–12:00, Room S103, FAN B)
-
-2. Ajith Kumar
-3. Niusha Sadeghi
-4. Selina Müller
-5. Jinyu Zou
-6. Ruohan Cheng
-7. Anna Lena Vienken
-8. Beate Ceglar
-
-#### Friday, 24 July 2026 (09:00–12:00, <span style="color:red">Room S138, NWIII</span>)
-
-1. Moritz Albrecht
-2. Jay Prafulkumar Patel
-3. Kishore Prakash Kumar
-4. Ana Pires Pereira
-5. Ibrahim Toksal
-6. Muhammad Iqbal
-7. Simon Bäumer
-8. Nida Erdogan
-
 ### Overview
 
-This section contains the general instructions for the final Python project (technical instructions and files [HERE](./project_master_updated.zip)) that must be completed individually in order to obtain ECTS credits for this course.
+You will receive a Python project (technical instructions and files [HERE](./project_master_updated.zip)) that must be solved individually using Jupyter Notebook in order to obtain ECTS credits for this course. The final Python code (as a Jupyter Notebook file) should then be submitted before a deadline and you would need to perform a presentation about your code afterwards and then answer general questions.
 
-If, for any reason, you are unable to obtain ECTS credits, you can still receive a general certificate from the Department of Polymer Engineering, provided that you pass the final Python exam. However, we strongly recommend that you contact the secretary or coordinator of your study programme to ask whether the ECTS credits from this Python course can be officially recognized in your programme. In most cases, this recognition is a very simple administrative process (often just a formal approval), but it depends entirely on your individual study programme. Many students have successfully had these ECTS credits recognized in the past.
+If, for any reason, you are unable to obtain ECTS credits, you can still receive a general certificate from the Department of Polymer Engineering, provided that you pass the final Python exam. However, we strongly recommend that you contact the secretary or coordinator of your study programme to ask whether the ECTS credits from this Python course can be officially recognized in your programme. In most cases, this recognition is a very simple administrative process (often just a formal approval), but it depends entirely on your individual study programme. Many students from VERY different study programmes have successfully had these ECTS credits recognized in the past.
 
 
-### 1. Submission
+### 1. Submission of your code
 
 | Item | Details |
 |---|---|
-| Deadline | 17 July 2026 at 23:59:59 |
+| Submission Deadline | To be announced, at 23:59:59 |
 | File format | `FirstName_LastName_ImmatriculationNumber.ipynb` |
 | Submission method | E-mail to albuquerque@uni-bayreuth.de |
 
 Submit one Jupyter Notebook (`.ipynb`) file containing your solution.
 
-> **Note:** Late submissions will receive lower grades. The `re` (regular expressions) library must **not** be used in your project.
+> **Note:** Late submissions will not be accepted: If this happens, you cannot present your code afterwards. Fortunately this course is delivered every semester, so that you can try again next semester.
 
 
 ### 2. Project Presentation
@@ -57,17 +33,25 @@ Each student will give a short presentation of their project:
 - **Equipment:** Rodrigo's laptop — no need to bring your own
 
 **Dates/Times:** 
-- 23 July 2026 from 09:00-12:00 (Room S103, FAN B)
-- 24 July 2026 from 09:00-12:00 (Room S138, NW III)
+
+- To be announced
 
 > **Note:** Additional days may be scheduled if necessary.
 
-Following the presentation, there will be approximately 5 minutes of questions covering your project and general Python concepts.
+Following the presentation, there will be approximately 5 minutes of questions covering your project and general Python concepts. A second examiner will be present.
+
+##### Order of presentations
+
+`Note:` Due to students complaints, this order will NOT be changed. If you cannot do your presentation for any reason, a second/last chance will be given about one week later (contact the instructor for more infos in this case), where grades shall become lower.
+
+1. Student A
+2. Student B
+3. Etc. 
 
 
 ### 3. Exam Registration
 
-To receive ECTS credits, you must register for the exam via **CMLife** (registrations open usually 1 month before the exam).
+To receive ECTS credits, you must register for the exam via **CMLife** (registrations open usually 1 month before the exam). If you forget to register, you might not be able to receive ECTS credits.
 
 
 ### 4. Support and Questions
@@ -92,7 +76,6 @@ The project and presentation will be assessed on the following:
 
 **Presentation and submission**
 - Was the presentation clear and finished on time?
-- Was the final notebook submitted before the deadline?
 - Were the questions answered satisfactorily?
 
 
