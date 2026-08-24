@@ -15,7 +15,7 @@ If, for any reason, you are unable to obtain ECTS credits, you can still receive
 
 | Item | Details |
 |---|---|
-| Submission Deadline | To be announced, at 23:59:59 |
+| Submission Deadline | 22.01.2026 at 23:59:59 |
 | File format | `FirstName_LastName_ImmatriculationNumber.ipynb` |
 | Submission method | E-mail to albuquerque@uni-bayreuth.de |
 
@@ -34,9 +34,9 @@ Each student will give a short presentation of their project in order to explain
 
 **Dates/Times:** 
 
-- To be announced
+- 29.01.2027 (same lecture place and time)
 
-> **Note:** Additional days may be scheduled if necessary.
+> **Note:** Additional days (01.02.2027 & 05.02.2027) may be scheduled if necessary.
 
 Following the presentation, there will be approximately 5 minutes of questions covering your project and general Python concepts. A second examiner will be present.
 
