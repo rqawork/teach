@@ -5,38 +5,44 @@
 
 ## Lecture Times
 
-- **Thursdays:** 16:00–17:30  
-  Room S131, Building NWIII
+- **Mondays:** 08:15–09:45  
+  Room S135, Building NWIII
 
-- **Fridays:** 12:15–13:45  
-  Room S102, Building FAN B
+- **Fridays:** 08:15–09:45  
+  Room S135, Building NWIII
 
 ## Weekly Topics
 
 | Date | Topic |
 |---|---|
-| 16.04.2026 (Thu) | Introduction + Strings / Lists |
-| 17.04.2026 (Fri) | Strings / Lists (+ extra exercises) |
-| 23.04.2026 (Thu) | Tuples / Sets / Dictionaries |
-| 24.04.2026 (Fri) | Tuples / Sets / Dictionaries (+ extra exercises) |
-| 30.04.2026 (Thu) | If Statements / Loops |
-| 07.05.2026 (Thu) | If Statements / Loops (+ extra exercises) |
-| 08.05.2026 (Fri) | Arrays |
-| 15.05.2026 (Fri) | Arrays (+ extra exercises) |
-| 21.05.2026 (Thu) | Pandas |
-| 22.05.2026 (Fri) | Pandas / Seaborn (+ extra exercises) |
-| 28.05.2026 (Thu) | Revision Exercise — Tutors: Aadim & Subhash |
-| 29.05.2026 (Fri) | Revision Exercise — Tutors: Aadim & Subhash <span style="color:red">(Room S108, FAN D)</span> |
-| 11.06.2026 (Thu) | Functions |
-| 12.06.2026 (Fri) | Functions / Own Modules (+ extra exercises) |
-| 18.06.2026 (Thu) | Python Projects I / Syntax — Tutors: Aadim & Subhash |
-| 19.06.2026 (Fri) | Python Projects I — Tutors: Aadim & Subhash |
-| 25.06.2026 (Thu) | Files |
-| 26.06.2026 (Fri) | Files (+ extra exercises) |
-| 02.07.2026 (Thu) | Matplotlib |
-| 03.07.2026 (Fri) | ChatGPT + Matplotlib (+ extra exercises) |
-| 09.07.2026 (Thu) | Python Projects II: Robots! (Tutors: Aadim & Subhash) |
-| 10.07.2026 (Fri) | Python Projects II Robots! (Tutors: Aadim & Subhash)|
-| 16.07.2026 (Thu) | Revision / General Projects |
-| 17.07.2026 (Fri) | Revision / General Projects |
+| 12.10.2026 (Mon) | Introduction + Strings / Lists |
+| 16.10.2026 (Fri) | Strings / Lists (+ extra exercises) |
+| 19.10.2026 (Mon) | Tuples / Sets / Dictionaries |
+| 23.10.2026 (Fri) | Tuples / Sets / Dictionaries (+ extra exercises) |
+| 26.10.2026 (Mon) | If Statements / Loops |
+| 30.10.2026 (Fri) | If Statements / Loops (+ extra exercises) |
+| 02.11.2026 (Mon) | Arrays |
+| 06.11.2026 (Fri) | Arrays (+ extra exercises) |
+| 09.11.2026 (Mon) | Pandas |
+| 13.11.2026 (Fri) | Pandas / Seaborn (+ extra exercises) |
+| 16.11.2026 (Mon) | Revision Exercise — Tutors: Aadim |
+| 20.11.2026 (Fri) | Revision Exercise — Tutors: Aadim |
+| 23.11.2026 (Mon) | Functions |
+| 27.11.2026 (Fri) | Functions / Own Modules (+ extra exercises) |
+| 30.11.2026 (Mon) | Python Projects I / Syntax — Tutors: Aadim & Subhash |
+| 04.12.2026 (Fri) | Python Projects I — Tutors: Aadim & Subhash |
+| 07.12.2026 (Mon) | Files |
+| 11.12.2026 (Fri) | Files (+ extra exercises) |
+| 14.12.2026 (Mon) | Matplotlib |
+| 18.12.2026 (Fri) | ChatGPT + Matplotlib (+ extra exercises) |
+| 21.12.2026 (Mon) | Python Projects II: Robots! (Tutors: Aadim & Subhash) |
+| 08.01.2027 (Fri) | Python Projects II Robots! (Tutors: Aadim & Subhash)|
+| 11.01.2027 (Mon) | Revision / General Projects |
+| 15.01.2027 (Fri) | Revision / General Projects |
+| 18.01.2027 (Mon) | Revision / General Projects |
+| 22.01.2027 (Fri) | Revision / General Projects |
+| 25.01.2027 (Mon) | Revision / General Projects |
+| 29.01.2027 (Fri) | Revision / General Projects |
+| 01.02.2027 (Mon) | Revision / General Projects |
+| 05.02.2027 (Fri) | Revision / General Projects |
 
