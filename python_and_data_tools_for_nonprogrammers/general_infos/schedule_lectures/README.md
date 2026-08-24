@@ -40,11 +40,9 @@
 | 11.01.2027 (Mon) | Python Projects I / Syntax — Tutors: Aadim & Subhash |
 | 15.01.2027 (Fri) | Python Projects II: Robots! (Tutors: Aadim & Subhash) |
 | 18.01.2027 (Mon) | Python Projects II Robots! (Tutors: Aadim & Subhash) |
-| 22.01.2027 (Fri) | General Projects |
-| 25.01.2027 (Mon) | General Projects |
-| 29.01.2027 (Fri) | Revision / General Projects |
-| 01.02.2027 (Mon) | Revision / General Projects |
-| 05.02.2027 (Fri) | Revision / General Projects |
-| 01.02.2027 (Mon) | Revision / General Projects |
-| 05.02.2027 (Fri) | Revision / General Projects |
+| 22.01.2027 (Fri) | Revision / General Projects |
+| 25.01.2027 (Mon) | Revision / General Projects |
+| 29.01.2027 (Fri) | Final Python Exam / Presentation |
+| 01.02.2027 (Mon) | Final Python Exam / Presentation |
+| 05.02.2027 (Fri) | Final Python Exam / Presentation |
 
