@@ -15,7 +15,7 @@ If, for any reason, you are unable to obtain ECTS credits, you can still receive
 
 | Item | Details |
 |---|---|
-| Submission Deadline | 22.01.2026 at 23:59:59 |
+| Submission Deadline | 22.01.2027 at 23:59:59 |
 | File format | `FirstName_LastName_ImmatriculationNumber.ipynb` |
 | Submission method | E-mail to albuquerque@uni-bayreuth.de |
 
