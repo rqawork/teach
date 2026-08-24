@@ -21,7 +21,7 @@ On the day of the presentation, you will make a powerpoint presentation (12 min 
 | File 2 format | `dataset.zip` |
 | Submission method | E-mail to albuquerque@uni-bayreuth.de |
 | Presentation place | Same lecture place |
-| Presentation date/time | 28.01.2027 & 04.02.2027 |
+| Presentation date/time | 28.01.2027 & 04.02.2027 (same lecture times) |
 
 `NOTE:` If you do not submit the required files by the deadline, you will not be permitted to deliver your final project presentation. Fortunately, this course is offered every semester, so you will have the opportunity to try again next term.
 
