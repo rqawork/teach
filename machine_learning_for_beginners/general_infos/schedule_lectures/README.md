@@ -6,22 +6,26 @@
 
 ## Lecture Times
 
-- **Mondays:** 10:15–11:45  
-  Room S70, Building NWII (UBT)
+- **Thursdays:** 08:15–09:45  
+  Room S104, Building FAN B (UBT)
 
 ## Weekly Topics
 
 | Date | Topic |
 |---|---|
-| 20.04.2026 (Mon) | Introduction (ML Types/Data) |
-| 27.04.2026 (Mon) | Preprocessing & kNN (Preprocessing, k-nearest neighbors, hyperparameters, cross validation) |
-| 04.05.2026 (Mon) | Linear regression (Types, loss function, over/underfitting, bias/variance, L1/L2 regularization, regression metrics) |
-| 11.05.2026 (Mon) | Classification (Logistic regression, SVM, classification metrics, confusion matrix, one-hot/label encoding) |
-| 18.05.2026 (Mon) | Random forests (Decision trees, random forest, classification and regression applications) |
-| 08.06.2026 (Mon) | PCA & KMeans (Dimensionality reduction, clustering) |
-| 15.06.2026 (Mon) | Extra exercises |
-| 22.06.2026 (Mon) | Simple ANNs (Feedforward networks, activation functions, basic training) |
-| 29.06.2026 (Mon) | Gaussian Processes (Kernels, conditional distributions) |
-| 06.07.2026 (Mon) | Design of Experiments (DoE, random design, active learning, bayesian optimization) |
-| 13.07.2026 (Mon) | General ML projects |
+|15.10.2026  (Thu) | Introduction (ML Types/Data) |
+|22.10.2026  (Thu) | Preprocessing & kNN (Preprocessing, k-nearest neighbors, hyperparameters, cross validation) |
+|29.10.2026  (Thu) | Linear regression (Types, loss function, over/underfitting, bias/variance, L1/L2 regularization, regression metrics) |
+|12.11.2026  (Thu) | Classification (Logistic regression, SVM, classification metrics, confusion matrix, one-hot/label encoding) |
+|19.11.2026  (Thu) | Random forests (Decision trees, random forest, classification and regression applications) |
+|26.11.2026  (Thu) | PCA & KMeans (Dimensionality reduction, clustering) |
+|03.12.2026  (Thu) | Extra exercises |
+|10.12.2026  (Thu) | Simple ANNs (Feedforward networks, activation functions, basic training) |
+|17.12.2026  (Thu) | Gaussian Processes (Kernels, conditional distributions) |
+|07.01.2027  (Thu) | Design of Experiments (DoE, random design, active learning, bayesian optimization) |
+|14.01.2027  (Thu) | General ML projects |
+|21.01.2027  (Thu) | Revision / General ML projects |
+|28.01.2027  (Thu) | Final ML Exam / Presentations |
+|04.02.2027  (Thu) | Final ML Exam / Presentations |
+
 
