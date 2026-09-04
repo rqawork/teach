@@ -21,8 +21,8 @@
 | 23.10.2026 (Fri) | Tuples / Sets / Dictionaries (+ extra exercises) |
 | 26.10.2026 (Mon) | If Statements / Loops |
 | 30.10.2026 (Fri) | If Statements / Loops (+ extra exercises) |
-| 02.11.2026 (Mon) | Revision Exercise — Tutors: Aadim |
-| 06.11.2026 (Fri) | Revision Exercise — Tutors: Aadim |
+| 02.11.2026 (Mon) | Revision Exercise — Tutors: Aadim & Subhash |
+| 06.11.2026 (Fri) | Revision Exercise — Tutors: Aadim & Subhash|
 | 09.11.2026 (Mon) | Arrays|
 | 13.11.2026 (Fri) | Arrays (+ extra exercises) |
 | 16.11.2026 (Mon) | Pandas |
@@ -30,7 +30,7 @@
 | 23.11.2026 (Mon) | Functions |
 | 27.11.2026 (Fri) | Functions / Own Modules (+ extra exercises) |
 | 30.11.2026 (Mon) | Revision Exercise — Tutors: Aadim & Subhash |
-| 04.12.2026 (Fri) | Revision Exercise — Tutors: Aadim  & Subhash |
+| 04.12.2026 (Fri) | Revision Exercise — Tutors: Aadim |
 | 07.12.2026 (Mon) | Files |
 | 11.12.2026 (Fri) | Files (+ extra exercises) |
 | 14.12.2026 (Mon) | Matplotlib  |
