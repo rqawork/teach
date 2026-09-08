@@ -21,7 +21,7 @@ If, for any reason, you are unable to obtain ECTS credits, you can still receive
 
 Submit one Jupyter Notebook (`.ipynb`) file containing your solution.
 
-> **Note:** Late submissions will not be accepted: If this happens, you cannot present your code afterwards. Fortunately this course is delivered every semester, so that you can try again next semester.
+> **Note:** Late submissions will not be accepted: If this happens, you cannot present your code afterwards.
 
 
 ### 2. Project Presentation
