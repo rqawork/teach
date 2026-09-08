@@ -8,7 +8,6 @@
 
 You will receive a Python project (technical instructions and files [HERE](./project_bsc.zip)) that must be solved individually using Jupyter Notebook in order to obtain ECTS credits for this course. The final Python code (as a Jupyter Notebook file) should then be submitted before a deadline and you would need to perform a presentation about your code afterwards and then answer general questions.
 
-If, for any reason, you are unable to obtain ECTS credits, you can still receive a general certificate from the Department of Polymer Engineering, provided that you pass the final Python exam. However, we strongly recommend that you contact the secretary or coordinator of your study programme to ask whether the ECTS credits from this Python course can be officially recognized in your programme. In most cases, this recognition is a very simple administrative process (often just a formal approval), but it depends entirely on your individual study programme. Many students from VERY different study programmes have successfully had these ECTS credits recognized in the past.
 
 
 ### 1. Submission of your code
@@ -53,6 +52,7 @@ Following the presentation, there will be approximately 5 minutes of questions c
 
 To receive ECTS credits, you must register for the exam via **CMLife** (registrations open usually 1 month before the exam). If you forget to register, you might not be able to receive ECTS credits.
 
+If, for any reason, you are unable to obtain ECTS credits, you can still receive a general certificate from the Department of Polymer Engineering, provided that you pass the final Python exam. However, we strongly recommend that you contact the secretary or coordinator of your study programme to ask whether the ECTS credits from this Python course can be officially recognized in your programme. In most cases, this recognition is a very simple administrative process (often just a formal approval), but it depends entirely on your individual study programme. Many students from VERY different study programmes have successfully had these ECTS credits recognized in the past.
 
 ### 4. Support and Questions
 
