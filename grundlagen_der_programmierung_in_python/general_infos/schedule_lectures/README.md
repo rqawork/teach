@@ -26,7 +26,7 @@
 |03.12.2026 (Thu) | Functions |
 |10.12.2026 (Thu) | Files |
 |17.12.2026 (Thu) | Matplotlib | 
-|07.01.2027 (Thu) | General Projects |
+|07.01.2027 (Thu) | General Projects (Tutor: Subhash) |
 |14.01.2027 (Thu) | General Projects |
 |21.01.2027 (Thu) | Revision / General Projects |
 |28.01.2027 (Thu) | Revision / General Projects |
