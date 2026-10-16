@@ -5,12 +5,12 @@
 
 ## Lecture Times
 
-- **Thursdays:** 13:30–15:00  
+- **Thursdays:** 14:15–15:45 
   Room S89, Building BGI
 
 ## Exercise Times
 
-- **Thursdays:** 15:00–15:45  
+- **Thursdays:** 15:45–16:30  
   Room S89, Building BGI
 
 ## Weekly Topics
