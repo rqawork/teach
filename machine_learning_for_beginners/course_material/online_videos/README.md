@@ -6,7 +6,7 @@
 
 - [Lecture 1: Introduction](https://mms.uni-bayreuth.de/Panopto/Pages/Viewer.aspx?id=d4c3a253-d23e-4449-bfab-b2c100edf448)
 
-- [Lecture 2: Preprocessing & kNN](https://mms.uni-bayreuth.de/Panopto/Pages/Viewer.aspx?id=d4c3a253-d23e-4449-bfab-b2c100edf448)
+- [Lecture 2: Preprocessing & kNN](https://mms.uni-bayreuth.de/Panopto/Pages/Viewer.aspx?id=0abce723-f5a9-4437-8e46-b2c200c169de)
 
 - [Lecture 3: Linear Regression](https://mms.uni-bayreuth.de/Panopto/Pages/Viewer.aspx?id=1cb3d45c-aabc-415d-bcc5-b2c201493bda)
 
