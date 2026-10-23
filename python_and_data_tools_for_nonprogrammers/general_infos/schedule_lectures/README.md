@@ -21,10 +21,10 @@
 | 23.10.2026 (Fri) | Tuples / Sets / Dictionaries (+ extra exercises) |
 | 26.10.2026 (Mon) | If Statements / Loops |
 | 30.10.2026 (Fri) | If Statements / Loops (+ extra exercises) |
-| 02.11.2026 (Mon) | Revision Exercise — Tutors: Aadim & Subhash |
-| 06.11.2026 (Fri) | Revision Exercise — Tutors: Aadim & Subhash|
-| 09.11.2026 (Mon) | Arrays|
-| 13.11.2026 (Fri) | Arrays (+ extra exercises) |
+| 02.11.2026 (Mon) | Arrays |
+| 06.11.2026 (Fri) | Arrays (+ extra exercises: Aadim) |
+| 09.11.2026 (Mon) | Revision Exercise — Tutors: Aadim & Subhash |
+| 13.11.2026 (Fri) | Revision Exercise — Tutors: Subhash |
 | 16.11.2026 (Mon) | Pandas |
 | 20.11.2026 (Fri) | Pandas / Seaborn (+ extra exercises) |
 | 23.11.2026 (Mon) | Functions |
