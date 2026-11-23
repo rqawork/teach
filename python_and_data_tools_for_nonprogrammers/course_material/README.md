@@ -4,7 +4,7 @@
 ## Course Material
 
 ### Lecture PDFs
-- [All Lectures](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/Lectures_Python_Albuquerque_May2026.pdf)
+- [All Lectures](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/Lectures_Python_Albuquerque.pdf)
 - [Lecture ChatGPT](/teach/python_and_data_tools_for_nonprogrammers/course_material/lectures_pdf/Lecture_ChatGPT.pdf)
 
 ### Exercises
